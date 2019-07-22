@@ -1,0 +1,2835 @@
+Player 1 win:
+hand1: [{1 4} {3 13} {3 4} {1 13} {1 8}]
+hand2: [{1 6} {0 4} {3 7} {3 9} {2 12}]
+Score1 '4' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 13 8 4 4] || Order2: [12 9 7 6 4]
+
+Player 1 win:
+hand1: [{0 2} {0 6} {2 5} {1 12} {2 10}]
+hand2: [{0 11} {3 9} {1 10} {3 1} {2 7}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 10 6 5 2] || Order2: [11 10 9 7 1]
+
+Player 1 win:
+hand1: [{0 4} {2 12} {1 8} {3 6} {0 8}]
+hand2: [{3 7} {2 2} {3 4} {1 4} {0 13}]
+
+Score1 '3' || Score2 '3'
+High1 '8' || High2 '4'
+Order1: [12 8 8 6 4] || Order2: [13 7 4 4 2]
+
+Player 1 win:
+hand1: [{1 10} {2 5} {0 4} {0 1} {3 1}]
+hand2: [{3 12} {3 8} {1 6} {2 13} {2 10}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '13'
+Order1: [10 5 4 1 1] || Order2: [13 12 10 8 6]
+
+Player 1 win:
+hand1: [{0 1} {2 3} {1 4} {2 4} {1 9}]
+hand2: [{1 12} {3 10} {1 5} {2 9} {1 2}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '12'
+Order1: [9 4 4 3 1] || Order2: [12 10 9 5 2]
+
+Player 1 win:
+hand1: [{3 11} {2 13} {0 5} {2 10} {1 1}]
+hand2: [{3 2} {0 8} {1 12} {0 3} {2 7}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 11 10 5 1] || Order2: [12 8 7 3 2]
+
+Player 1 win:
+hand1: [{2 5} {3 7} {1 3} {2 7} {1 5}]
+hand2: [{0 11} {1 9} {3 5} {3 6} {3 8}]
+Score1 '4' || Score2 '2'
+High1 '7' || High2 '11'
+Order1: [7 7 5 5 3] || Order2: [11 9 8 6 5]
+
+Player 1 win:
+hand1: [{1 2} {2 11} {2 1} {0 3} {0 10}]
+hand2: [{3 2} {3 1} {3 9} {2 7} {0 8}]
+
+Score1 '2' || Score2 '2'
+High1 '11' || High2 '9'
+Order1: [11 10 3 2 1] || Order2: [9 8 7 2 1]
+
+Player 1 win:
+hand1: [{0 5} {3 9} {3 8} {2 13} {0 10}]
+hand2: [{1 5} {1 11} {2 8} {3 12} {1 10}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 10 9 8 5] || Order2: [12 11 10 8 5]
+
+Player 1 win:
+hand1: [{0 12} {0 3} {2 13} {2 10} {2 11}]
+hand2: [{1 11} {1 9} {3 5} {1 6} {2 12}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 12 11 10 3] || Order2: [12 11 9 6 5]
+
+Player 1 win:
+hand1: [{3 11} {0 4} {3 3} {3 4} {0 12}]
+hand2: [{0 6} {3 2} {2 10} {3 12} {0 3}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '12'
+Order1: [12 11 4 4 3] || Order2: [12 10 6 3 2]
+
+Player 1 win:
+hand1: [{1 1} {0 8} {0 5} {1 4} {3 8}]
+hand2: [{1 5} {1 10} {3 1} {0 9} {2 8}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '10'
+Order1: [8 8 5 4 1] || Order2: [10 9 8 5 1]
+
+Player 1 win:
+hand1: [{3 6} {3 5} {2 13} {3 11} {0 10}]
+hand2: [{3 3} {2 10} {1 6} {2 11} {1 4}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 11 10 6 5] || Order2: [11 10 6 4 3]
+
+Player 1 win:
+hand1: [{0 2} {0 12} {3 11} {3 13} {1 7}]
+hand2: [{0 7} {2 2} {0 9} {3 8} {2 4}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '9'
+Order1: [13 12 11 7 2] || Order2: [9 8 7 4 2]
+
+Player 1 win:
+hand1: [{0 13} {2 8} {3 3} {3 8} {2 7}]
+hand2: [{0 3} {2 10} {1 2} {1 9} {3 7}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '10'
+Order1: [13 8 8 7 3] || Order2: [10 9 7 3 2]
+
+Player 1 win:
+hand1: [{1 4} {0 6} {3 4} {3 12} {0 8}]
+hand2: [{3 3} {3 2} {3 1} {2 12} {3 13}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '13'
+Order1: [12 8 6 4 4] || Order2: [13 12 3 2 1]
+
+Player 1 win:
+hand1: [{2 8} {0 2} {3 8} {3 10} {1 4}]
+hand2: [{3 3} {0 8} {2 13} {1 9} {0 11}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '13'
+Order1: [10 8 8 4 2] || Order2: [13 11 9 8 3]
+
+Player 1 win:
+hand1: [{1 12} {1 8} {1 6} {1 10} {2 10}]
+hand2: [{3 12} {0 2} {2 13} {1 2} {3 6}]
+
+Score1 '3' || Score2 '3'
+High1 '10' || High2 '2'
+Order1: [12 10 10 8 6] || Order2: [13 12 6 2 2]
+
+Player 1 win:
+hand1: [{2 2} {2 12} {2 11} {0 6} {0 12}]
+hand2: [{3 6} {0 4} {3 4} {3 10} {3 13}]
+
+Score1 '3' || Score2 '3'
+High1 '12' || High2 '4'
+Order1: [12 12 11 6 2] || Order2: [13 10 6 4 4]
+
+Player 1 win:
+hand1: [{0 1} {1 1} {0 5} {0 9} {1 9}]
+hand2: [{3 6} {3 7} {0 3} {1 7} {2 13}]
+Score1 '4' || Score2 '3'
+High1 '9' || High2 '7'
+Order1: [9 9 5 1 1] || Order2: [13 7 7 6 3]
+
+Player 1 win:
+hand1: [{0 4} {0 10} {2 9} {2 6} {3 9}]
+hand2: [{0 5} {3 13} {3 11} {0 7} {2 7}]
+
+Score1 '3' || Score2 '3'
+High1 '9' || High2 '7'
+Order1: [10 9 9 6 4] || Order2: [13 11 7 7 5]
+
+Player 1 win:
+hand1: [{0 3} {0 12} {2 12} {2 8} {2 1}]
+hand2: [{1 12} {2 4} {3 13} {2 3} {3 6}]
+Score1 '3' || Score2 '2'
+High1 '12' || High2 '13'
+Order1: [12 12 8 3 1] || Order2: [13 12 6 4 3]
+
+Player 1 win:
+hand1: [{3 13} {1 2} {3 2} {2 12} {2 2}]
+hand2: [{1 4} {1 8} {1 7} {2 9} {2 3}]
+Score1 '5' || Score2 '2'
+High1 '13' || High2 '9'
+Order1: [13 12 2 2 2] || Order2: [9 8 7 4 3]
+
+Player 1 win:
+hand1: [{2 7} {0 1} {0 11} {3 3} {1 11}]
+hand2: [{3 8} {1 12} {2 13} {0 9} {1 2}]
+Score1 '3' || Score2 '2'
+High1 '11' || High2 '13'
+Order1: [11 11 7 3 1] || Order2: [13 12 9 8 2]
+
+HAND1: Hand 1: [{Suit:3 Value:2} {Suit:3 Value:13} {Suit:1 Value:2} {Suit:2 Value:2} {Suit:1 Value:3}] ||| Hand 2: [{Suit:1 Value:11} {Suit:2 Value:13} {Suit:3 Value:4} {Suit:0 Value:9} {Suit:1 Value:7}]
+Player 1 win:
+hand1: [{3 2} {3 13} {1 2} {2 2} {1 3}]
+hand2: [{1 11} {2 13} {3 4} {0 9} {1 7}]
+Score1 '5' || Score2 '2'
+High1 '13' || High2 '13'
+Order1: [13 3 2 2 2] || Order2: [13 11 9 7 4]
+
+Player 1 win:
+hand1: [{0 7} {0 10} {1 9} {2 2} {3 7}]
+hand2: [{1 7} {2 8} {1 1} {1 4} {3 3}]
+Score1 '3' || Score2 '2'
+High1 '7' || High2 '8'
+Order1: [10 9 7 7 2] || Order2: [8 7 4 3 1]
+
+Player 1 win:
+hand1: [{1 1} {3 8} {1 12} {0 11} {0 9}]
+hand2: [{2 11} {1 10} {1 8} {0 3} {2 9}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 11 9 8 1] || Order2: [11 10 9 8 3]
+
+Player 1 win:
+hand1: [{2 11} {1 2} {3 11} {0 7} {0 12}]
+hand2: [{0 3} {3 7} {3 9} {2 7} {1 13}]
+
+Score1 '3' || Score2 '3'
+High1 '11' || High2 '7'
+Order1: [12 11 11 7 2] || Order2: [13 9 7 7 3]
+
+Player 1 win:
+hand1: [{1 11} {1 9} {3 10} {2 9} {1 7}]
+hand2: [{0 2} {0 5} {3 12} {1 6} {3 9}]
+Score1 '3' || Score2 '2'
+High1 '9' || High2 '12'
+Order1: [11 10 9 9 7] || Order2: [12 9 6 5 2]
+
+Player 1 win:
+hand1: [{0 1} {3 3} {0 13} {3 1} {0 10}]
+hand2: [{0 5} {3 9} {3 4} {0 3} {3 10}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '10'
+Order1: [13 10 3 1 1] || Order2: [10 9 5 4 3]
+
+Player 1 win:
+hand1: [{3 12} {1 7} {2 8} {0 10} {3 11}]
+hand2: [{2 10} {1 1} {2 11} {1 4} {1 6}]
+Score1 '6' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 11 10 8 7] || Order2: [11 10 6 4 1]
+
+Player 1 win:
+hand1: [{1 10} {0 5} {2 5} {2 10} {0 3}]
+hand2: [{0 11} {0 8} {0 13} {1 3} {1 2}]
+Score1 '4' || Score2 '2'
+High1 '10' || High2 '13'
+Order1: [10 10 5 5 3] || Order2: [13 11 8 3 2]
+
+Player 1 win:
+hand1: [{1 7} {2 6} {2 7} {0 11} {2 1}]
+hand2: [{3 10} {1 4} {0 6} {0 13} {3 11}]
+Score1 '3' || Score2 '2'
+High1 '7' || High2 '13'
+Order1: [11 7 7 6 1] || Order2: [13 11 10 6 4]
+
+Player 1 win:
+hand1: [{2 7} {1 2} {0 5} {1 5} {1 1}]
+hand2: [{3 7} {3 9} {3 6} {1 3} {3 3}]
+
+Score1 '3' || Score2 '3'
+High1 '5' || High2 '3'
+Order1: [7 5 5 2 1] || Order2: [9 7 6 3 3]
+
+Player 1 win:
+hand1: [{3 13} {1 5} {2 5} {3 6} {0 9}]
+hand2: [{0 5} {0 1} {0 7} {0 12} {0 3}]
+Score1 '3' || Score2 '2'
+High1 '5' || High2 '12'
+Order1: [13 9 6 5 5] || Order2: [12 7 5 3 1]
+
+Player 1 win:
+hand1: [{2 12} {2 10} {3 12} {3 4} {3 1}]
+hand2: [{0 12} {3 6} {1 8} {1 7} {3 2}]
+Score1 '3' || Score2 '2'
+High1 '12' || High2 '12'
+Order1: [12 12 10 4 1] || Order2: [12 8 7 6 2]
+
+Player 1 win:
+hand1: [{0 13} {0 11} {2 13} {1 10} {2 7}]
+hand2: [{0 7} {1 3} {1 12} {0 9} {3 6}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 13 11 10 7] || Order2: [12 9 7 6 3]
+
+Player 1 win:
+hand1: [{1 10} {0 4} {3 9} {1 6} {3 4}]
+hand2: [{3 12} {1 3} {3 13} {0 7} {2 10}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '13'
+Order1: [10 9 6 4 4] || Order2: [13 12 10 7 3]
+
+Player 1 win:
+hand1: [{1 12} {0 1} {1 13} {0 13} {3 6}]
+hand2: [{0 10} {0 12} {3 4} {2 6} {3 5}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 13 12 6 1] || Order2: [12 10 6 5 4]
+
+Player 1 win:
+hand1: [{2 8} {2 4} {1 8} {0 5} {2 7}]
+hand2: [{3 9} {3 10} {0 8} {1 5} {1 13}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '13'
+Order1: [8 8 7 5 4] || Order2: [13 10 9 8 5]
+
+Player 1 win:
+hand1: [{3 12} {1 12} {2 5} {3 2} {3 6}]
+hand2: [{2 1} {2 7} {0 2} {2 4} {1 4}]
+
+Score1 '3' || Score2 '3'
+High1 '12' || High2 '4'
+Order1: [12 12 6 5 2] || Order2: [7 4 4 2 1]
+
+Player 1 win:
+hand1: [{3 3} {2 3} {0 7} {3 9} {1 8}]
+hand2: [{2 2} {3 6} {3 8} {2 13} {0 9}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '13'
+Order1: [9 8 7 3 3] || Order2: [13 9 8 6 2]
+
+Player 1 win:
+hand1: [{1 10} {2 11} {0 10} {1 1} {2 5}]
+hand2: [{1 8} {1 11} {3 2} {2 3} {1 9}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '11'
+Order1: [11 10 10 5 1] || Order2: [11 9 8 3 2]
+
+Player 1 win:
+hand1: [{3 12} {0 4} {1 10} {0 7} {3 10}]
+hand2: [{3 1} {0 3} {3 9} {0 10} {1 4}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '10'
+Order1: [12 10 10 7 4] || Order2: [10 9 4 3 1]
+
+Player 1 win:
+hand1: [{1 7} {3 11} {1 10} {2 11} {1 9}]
+hand2: [{1 11} {0 3} {1 13} {0 12} {1 5}]
+Score1 '3' || Score2 '2'
+High1 '11' || High2 '13'
+Order1: [11 11 10 9 7] || Order2: [13 12 11 5 3]
+
+Player 1 win:
+hand1: [{2 4} {1 8} {0 12} {3 12} {0 8}]
+hand2: [{1 4} {2 9} {3 2} {3 6} {3 1}]
+Score1 '4' || Score2 '2'
+High1 '12' || High2 '9'
+Order1: [12 12 8 8 4] || Order2: [9 6 4 2 1]
+
+Player 1 win:
+hand1: [{0 4} {2 13} {1 9} {3 3} {1 7}]
+hand2: [{1 1} {2 9} {3 8} {0 2} {3 7}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '9'
+Order1: [13 9 7 4 3] || Order2: [9 8 7 2 1]
+
+Player 1 win:
+hand1: [{1 12} {0 13} {0 11} {0 1} {3 6}]
+hand2: [{2 11} {0 2} {2 12} {2 6} {3 10}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 12 11 6 1] || Order2: [12 11 10 6 2]
+
+Player 1 win:
+hand1: [{1 5} {2 7} {0 2} {3 5} {2 12}]
+hand2: [{3 11} {3 4} {1 4} {0 7} {1 9}]
+
+Score1 '3' || Score2 '3'
+High1 '5' || High2 '4'
+Order1: [12 7 5 5 2] || Order2: [11 9 7 4 4]
+
+Player 1 win:
+hand1: [{0 8} {3 3} {2 3} {2 5} {3 8}]
+hand2: [{0 12} {1 11} {0 3} {1 5} {3 10}]
+Score1 '4' || Score2 '2'
+High1 '8' || High2 '12'
+Order1: [8 8 5 3 3] || Order2: [12 11 10 5 3]
+
+Player 1 win:
+hand1: [{3 9} {2 9} {1 6} {3 13} {1 10}]
+hand2: [{3 11} {0 8} {1 2} {1 12} {0 6}]
+Score1 '3' || Score2 '2'
+High1 '9' || High2 '12'
+Order1: [13 10 9 9 6] || Order2: [12 11 8 6 2]
+
+Player 1 win:
+hand1: [{3 4} {3 3} {2 4} {0 7} {0 3}]
+hand2: [{3 6} {0 2} {3 10} {3 12} {3 1}]
+Score1 '4' || Score2 '2'
+High1 '4' || High2 '12'
+Order1: [7 4 4 3 3] || Order2: [12 10 6 2 1]
+
+Player 1 win:
+hand1: [{1 13} {3 2} {2 13} {1 7} {3 9}]
+hand2: [{0 6} {0 12} {3 4} {1 5} {3 10}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 13 9 7 2] || Order2: [12 10 6 5 4]
+
+HAND2: Hand 1: [{Suit:0 Value:10} {Suit:2 Value:7} {Suit:2 Value:4} {Suit:2 Value:6} {Suit:3 Value:6}] ||| Hand 2: [{Suit:2 Value:13} {Suit:3 Value:1} {Suit:3 Value:2} {Suit:3 Value:13} {Suit:0 Value:1}]
+Player 1 win:
+hand1: [{0 5} {3 12} {1 1} {3 9} {0 1}]
+hand2: [{1 5} {3 8} {3 1} {2 10} {1 7}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '10'
+Order1: [12 9 5 1 1] || Order2: [10 8 7 5 1]
+
+Player 1 win:
+hand1: [{3 12} {2 6} {1 2} {1 6} {2 13}]
+hand2: [{0 11} {2 9} {3 13} {1 7} {2 1}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '13'
+Order1: [13 12 6 6 2] || Order2: [13 11 9 7 1]
+
+Player 1 win:
+hand1: [{0 1} {1 6} {2 9} {1 9} {1 7}]
+hand2: [{1 2} {0 8} {3 1} {3 5} {1 10}]
+Score1 '3' || Score2 '2'
+High1 '9' || High2 '10'
+Order1: [9 9 7 6 1] || Order2: [10 8 5 2 1]
+
+Player 1 win:
+hand1: [{3 8} {3 9} {0 8} {1 11} {3 4}]
+hand2: [{1 5} {0 7} {1 7} {1 12} {2 9}]
+
+Score1 '3' || Score2 '3'
+High1 '8' || High2 '7'
+Order1: [11 9 8 8 4] || Order2: [12 9 7 7 5]
+
+Player 1 win:
+hand1: [{3 9} {2 5} {3 6} {2 10} {3 12}]
+hand2: [{0 3} {2 11} {2 1} {2 2} {1 7}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 10 9 6 5] || Order2: [11 7 3 2 1]
+
+Player 1 win:
+hand1: [{1 1} {3 12} {0 8} {2 10} {2 8}]
+hand2: [{0 2} {1 10} {2 9} {3 4} {1 13}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '13'
+Order1: [12 10 8 8 1] || Order2: [13 10 9 4 2]
+
+HAND1: Hand 1: [{Suit:2 Value:13} {Suit:0 Value:1} {Suit:3 Value:4} {Suit:3 Value:13} {Suit:0 Value:4}] ||| Hand 2: [{Suit:1 Value:10} {Suit:2 Value:6} {Suit:3 Value:9} {Suit:2 Value:10} {Suit:1 Value:3}]
+Player 1 win:
+hand1: [{2 13} {0 1} {3 4} {3 13} {0 4}]
+hand2: [{1 10} {2 6} {3 9} {2 10} {1 3}]
+Score1 '4' || Score2 '3'
+High1 '13' || High2 '10'
+Order1: [13 13 4 4 1] || Order2: [10 10 9 6 3]
+
+Player 1 win:
+hand1: [{0 6} {3 11} {0 10} {0 4} {2 10}]
+hand2: [{1 13} {3 2} {0 9} {1 3} {0 7}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '13'
+Order1: [11 10 10 6 4] || Order2: [13 9 7 3 2]
+
+HAND2: Hand 1: [{Suit:1 Value:5} {Suit:3 Value:9} {Suit:2 Value:4} {Suit:1 Value:9} {Suit:2 Value:7}] ||| Hand 2: [{Suit:0 Value:13} {Suit:1 Value:1} {Suit:3 Value:4} {Suit:2 Value:13} {Suit:1 Value:13}]
+Player 1 win:
+hand1: [{0 11} {3 12} {3 11} {3 5} {1 13}]
+hand2: [{0 5} {0 12} {1 1} {2 9} {1 7}]
+Score1 '3' || Score2 '2'
+High1 '11' || High2 '12'
+Order1: [13 12 11 11 5] || Order2: [12 9 7 5 1]
+
+Player 1 win:
+hand1: [{3 12} {2 8} {2 3} {1 9} {2 6}]
+hand2: [{1 11} {2 2} {2 7} {0 1} {0 6}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 9 8 6 3] || Order2: [11 7 6 2 1]
+
+Player 1 win:
+hand1: [{0 5} {2 11} {1 5} {1 9} {3 11}]
+hand2: [{0 8} {3 6} {1 6} {0 4} {3 3}]
+Score1 '4' || Score2 '3'
+High1 '11' || High2 '6'
+Order1: [11 11 9 5 5] || Order2: [8 6 6 4 3]
+
+Player 1 win:
+hand1: [{2 10} {1 8} {1 4} {2 5} {3 8}]
+hand2: [{3 10} {0 7} {1 12} {1 3} {3 5}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '12'
+Order1: [10 8 8 5 4] || Order2: [12 10 7 5 3]
+
+Player 1 win:
+hand1: [{3 3} {3 7} {2 7} {1 5} {1 6}]
+hand2: [{0 5} {0 6} {0 7} {1 4} {1 12}]
+Score1 '3' || Score2 '2'
+High1 '7' || High2 '12'
+Order1: [7 7 6 5 3] || Order2: [12 7 6 5 4]
+
+Player 1 win:
+hand1: [{1 3} {2 13} {2 10} {2 8} {1 6}]
+hand2: [{2 9} {0 6} {0 8} {1 10} {2 12}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 10 8 6 3] || Order2: [12 10 9 8 6]
+
+Player 1 win:
+hand1: [{1 3} {1 1} {3 6} {3 2} {2 13}]
+hand2: [{1 8} {2 1} {2 11} {1 12} {1 5}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 6 3 2 1] || Order2: [12 11 8 5 1]
+
+Player 1 win:
+hand1: [{2 7} {0 4} {3 2} {2 1} {1 13}]
+hand2: [{3 8} {2 5} {2 2} {3 3} {3 9}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '9'
+Order1: [13 7 4 2 1] || Order2: [9 8 5 3 2]
+
+Player 1 win:
+hand1: [{3 11} {0 9} {2 6} {2 9} {3 2}]
+hand2: [{1 13} {0 6} {1 5} {3 4} {1 11}]
+Score1 '3' || Score2 '2'
+High1 '9' || High2 '13'
+Order1: [11 9 9 6 2] || Order2: [13 11 6 5 4]
+
+Player 1 win:
+hand1: [{1 9} {3 11} {3 13} {1 8} {2 11}]
+hand2: [{1 4} {3 7} {3 12} {3 2} {1 2}]
+
+Score1 '3' || Score2 '3'
+High1 '11' || High2 '2'
+Order1: [13 11 11 9 8] || Order2: [12 7 4 2 2]
+
+Player 1 win:
+hand1: [{1 4} {1 5} {0 4} {0 1} {0 10}]
+hand2: [{0 3} {2 12} {1 6} {1 9} {0 2}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '12'
+Order1: [10 5 4 4 1] || Order2: [12 9 6 3 2]
+
+Player 1 win:
+hand1: [{1 7} {3 8} {0 13} {0 1} {1 13}]
+hand2: [{1 11} {2 4} {0 7} {0 6} {1 1}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 13 8 7 1] || Order2: [11 7 6 4 1]
+
+Player 1 win:
+hand1: [{3 11} {0 8} {2 4} {2 11} {1 11}]
+hand2: [{1 8} {0 4} {1 10} {0 9} {0 3}]
+Score1 '5' || Score2 '2'
+High1 '11' || High2 '10'
+Order1: [11 11 11 8 4] || Order2: [10 9 8 4 3]
+
+Player 1 win:
+hand1: [{1 5} {2 5} {0 2} {0 4} {2 2}]
+hand2: [{0 5} {2 12} {3 7} {1 13} {2 6}]
+Score1 '4' || Score2 '2'
+High1 '5' || High2 '13'
+Order1: [5 5 4 2 2] || Order2: [13 12 7 6 5]
+
+Player 1 win:
+hand1: [{0 13} {2 4} {0 5} {2 8} {3 13}]
+hand2: [{2 2} {0 9} {0 1} {3 8} {1 7}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '9'
+Order1: [13 13 8 5 4] || Order2: [9 8 7 2 1]
+
+Player 1 win:
+hand1: [{3 8} {0 5} {3 3} {1 9} {1 3}]
+hand2: [{0 10} {2 1} {3 4} {2 2} {2 13}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '13'
+Order1: [9 8 5 3 3] || Order2: [13 10 4 2 1]
+
+Player 1 win:
+hand1: [{2 2} {2 3} {2 6} {0 13} {2 13}]
+hand2: [{1 12} {2 10} {2 1} {3 13} {0 9}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '13'
+Order1: [13 13 6 3 2] || Order2: [13 12 10 9 1]
+
+Player 1 win:
+hand1: [{3 10} {2 10} {1 10} {0 9} {3 1}]
+hand2: [{3 2} {3 11} {1 7} {1 13} {0 4}]
+Score1 '5' || Score2 '2'
+High1 '10' || High2 '13'
+Order1: [10 10 10 9 1] || Order2: [13 11 7 4 2]
+
+Player 1 win:
+hand1: [{2 6} {0 12} {2 4} {3 8} {3 4}]
+hand2: [{3 9} {2 3} {0 5} {1 2} {3 1}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '9'
+Order1: [12 8 6 4 4] || Order2: [9 5 3 2 1]
+
+Player 1 win:
+hand1: [{3 11} {2 11} {0 9} {1 2} {2 9}]
+hand2: [{0 6} {3 6} {0 13} {3 9} {1 10}]
+Score1 '4' || Score2 '3'
+High1 '11' || High2 '6'
+Order1: [11 11 9 9 2] || Order2: [13 10 9 6 6]
+
+Player 1 win:
+hand1: [{0 13} {0 6} {2 3} {3 5} {1 6}]
+hand2: [{0 1} {3 8} {2 12} {1 10} {3 9}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '12'
+Order1: [13 6 6 5 3] || Order2: [12 10 9 8 1]
+
+Player 1 win:
+hand1: [{1 11} {3 1} {1 13} {3 11} {2 1}]
+hand2: [{2 2} {3 10} {2 11} {2 5} {0 7}]
+Score1 '4' || Score2 '2'
+High1 '11' || High2 '11'
+Order1: [13 11 11 1 1] || Order2: [11 10 7 5 2]
+
+Player 1 win:
+hand1: [{3 7} {0 8} {0 13} {3 10} {3 9}]
+hand2: [{2 11} {3 6} {2 2} {1 8} {2 7}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 10 9 8 7] || Order2: [11 8 7 6 2]
+
+Player 1 win:
+hand1: [{0 8} {0 6} {2 5} {0 10} {0 9}]
+hand2: [{1 3} {1 6} {3 13} {1 4} {3 1}]
+Score1 '6' || Score2 '2'
+High1 '10' || High2 '13'
+Order1: [10 9 8 6 5] || Order2: [13 6 4 3 1]
+
+Player 1 win:
+hand1: [{0 6} {3 12} {0 13} {3 3} {0 12}]
+hand2: [{1 4} {2 3} {3 1} {1 12} {0 11}]
+Score1 '3' || Score2 '2'
+High1 '12' || High2 '12'
+Order1: [13 12 12 6 3] || Order2: [12 11 4 3 1]
+
+Player 1 win:
+hand1: [{3 5} {0 5} {3 4} {2 4} {1 9}]
+hand2: [{3 2} {3 6} {2 11} {3 8} {3 11}]
+Score1 '4' || Score2 '3'
+High1 '5' || High2 '11'
+Order1: [9 5 5 4 4] || Order2: [11 11 8 6 2]
+
+Player 1 win:
+hand1: [{2 3} {1 5} {2 7} {2 2} {2 6}]
+hand2: [{3 13} {2 12} {3 1} {3 6} {1 6}]
+Score1 '6' || Score2 '3'
+High1 '7' || High2 '6'
+Order1: [7 6 5 3 2] || Order2: [13 12 6 6 1]
+
+Player 1 win:
+hand1: [{1 12} {0 11} {1 10} {1 13} {3 11}]
+hand2: [{3 4} {3 7} {2 11} {0 6} {3 6}]
+
+Score1 '3' || Score2 '3'
+High1 '11' || High2 '6'
+Order1: [13 12 11 11 10] || Order2: [11 7 6 6 4]
+
+Player 1 win:
+hand1: [{2 10} {0 13} {2 7} {0 4} {3 2}]
+hand2: [{3 9} {0 2} {2 3} {1 5} {0 10}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '10'
+Order1: [13 10 7 4 2] || Order2: [10 9 5 3 2]
+
+Player 1 win:
+hand1: [{2 3} {2 11} {3 6} {2 13} {0 8}]
+hand2: [{2 10} {2 12} {3 5} {1 9} {1 4}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 11 8 6 3] || Order2: [12 10 9 5 4]
+
+Player 1 win:
+hand1: [{2 4} {3 2} {2 12} {1 13} {2 3}]
+hand2: [{3 6} {3 11} {1 3} {0 9} {2 1}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 12 4 3 2] || Order2: [11 9 6 3 1]
+
+Player 1 win:
+hand1: [{2 7} {2 6} {3 8} {1 11} {1 13}]
+hand2: [{1 6} {3 5} {0 1} {0 10} {1 12}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 11 8 7 6] || Order2: [12 10 6 5 1]
+
+Player 1 win:
+hand1: [{0 12} {1 6} {1 9} {2 5} {3 9}]
+hand2: [{1 10} {1 4} {3 6} {0 13} {2 2}]
+Score1 '3' || Score2 '2'
+High1 '9' || High2 '13'
+Order1: [12 9 9 6 5] || Order2: [13 10 6 4 2]
+
+Player 1 win:
+hand1: [{0 2} {1 3} {0 3} {1 9} {0 9}]
+hand2: [{2 5} {0 6} {3 5} {1 8} {0 11}]
+Score1 '4' || Score2 '3'
+High1 '9' || High2 '5'
+Order1: [9 9 3 3 2] || Order2: [11 8 6 5 5]
+
+Player 1 win:
+hand1: [{0 2} {2 5} {3 13} {0 6} {2 2}]
+hand2: [{1 11} {2 7} {2 3} {2 6} {2 10}]
+Score1 '3' || Score2 '2'
+High1 '2' || High2 '11'
+Order1: [13 6 5 2 2] || Order2: [11 10 7 6 3]
+
+Player 1 win:
+hand1: [{2 9} {2 5} {1 11} {1 5} {0 9}]
+hand2: [{1 9} {3 8} {1 4} {3 4} {3 12}]
+Score1 '4' || Score2 '3'
+High1 '9' || High2 '4'
+Order1: [11 9 9 5 5] || Order2: [12 9 8 4 4]
+
+Player 1 win:
+hand1: [{0 5} {3 4} {2 6} {0 4} {1 8}]
+hand2: [{0 8} {0 10} {2 7} {0 9} {0 6}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '10'
+Order1: [8 6 5 4 4] || Order2: [10 9 8 7 6]
+
+Player 1 win:
+hand1: [{2 3} {1 6} {1 8} {3 6} {0 10}]
+hand2: [{1 5} {1 4} {0 7} {3 8} {3 11}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '11'
+Order1: [10 8 6 6 3] || Order2: [11 8 7 5 4]
+
+Player 1 win:
+hand1: [{1 10} {2 5} {1 8} {0 11} {0 10}]
+hand2: [{3 7} {2 6} {2 10} {0 12} {0 1}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '12'
+Order1: [11 10 10 8 5] || Order2: [12 10 7 6 1]
+
+Player 1 win:
+hand1: [{3 1} {0 2} {3 6} {3 10} {3 2}]
+hand2: [{2 13} {2 1} {1 8} {1 11} {2 7}]
+Score1 '3' || Score2 '2'
+High1 '2' || High2 '13'
+Order1: [10 6 2 2 1] || Order2: [13 11 8 7 1]
+
+Player 1 win:
+hand1: [{0 3} {0 8} {1 8} {1 1} {2 6}]
+hand2: [{0 10} {3 12} {1 4} {3 4} {0 5}]
+
+Score1 '3' || Score2 '3'
+High1 '8' || High2 '4'
+Order1: [8 8 6 3 1] || Order2: [12 10 5 4 4]
+
+Player 1 win:
+hand1: [{2 9} {0 4} {3 10} {2 11} {0 11}]
+hand2: [{1 11} {3 7} {3 4} {0 12} {0 13}]
+Score1 '3' || Score2 '2'
+High1 '11' || High2 '13'
+Order1: [11 11 10 9 4] || Order2: [13 12 11 7 4]
+
+Player 1 win:
+hand1: [{2 5} {0 3} {2 3} {1 8} {3 7}]
+hand2: [{2 12} {1 9} {3 8} {0 10} {1 6}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '12'
+Order1: [8 7 5 3 3] || Order2: [12 10 9 8 6]
+
+Player 1 win:
+hand1: [{2 4} {1 10} {0 4} {2 3} {0 11}]
+hand2: [{1 13} {1 1} {2 10} {2 1} {2 8}]
+
+Score1 '3' || Score2 '3'
+High1 '4' || High2 '1'
+Order1: [11 10 4 4 3] || Order2: [13 10 8 1 1]
+
+Player 1 win:
+hand1: [{1 7} {0 4} {2 13} {3 11} {3 13}]
+hand2: [{1 4} {3 6} {2 7} {1 11} {3 9}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 13 11 7 4] || Order2: [11 9 7 6 4]
+
+Player 1 win:
+hand1: [{1 10} {0 12} {3 1} {3 6} {2 10}]
+hand2: [{1 11} {0 4} {1 3} {3 4} {3 13}]
+
+Score1 '3' || Score2 '3'
+High1 '10' || High2 '4'
+Order1: [12 10 10 6 1] || Order2: [13 11 4 4 3]
+
+Player 1 win:
+hand1: [{2 9} {2 2} {3 13} {2 3} {3 9}]
+hand2: [{3 1} {0 9} {2 5} {0 8} {0 10}]
+Score1 '3' || Score2 '2'
+High1 '9' || High2 '10'
+Order1: [13 9 9 3 2] || Order2: [10 9 8 5 1]
+
+Player 1 win:
+hand1: [{0 12} {2 5} {0 7} {2 3} {3 12}]
+hand2: [{3 6} {3 8} {2 9} {3 11} {1 11}]
+
+Score1 '3' || Score2 '3'
+High1 '12' || High2 '11'
+Order1: [12 12 7 5 3] || Order2: [11 11 9 8 6]
+
+Player 1 win:
+hand1: [{0 10} {0 4} {0 13} {2 12} {2 13}]
+hand2: [{3 13} {1 10} {1 11} {2 4} {0 12}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '13'
+Order1: [13 13 12 10 4] || Order2: [13 12 11 10 4]
+
+Player 1 win:
+hand1: [{3 4} {3 6} {3 5} {2 12} {3 12}]
+hand2: [{3 2} {1 6} {3 3} {3 10} {2 2}]
+
+Score1 '3' || Score2 '3'
+High1 '12' || High2 '2'
+Order1: [12 12 6 5 4] || Order2: [10 6 3 2 2]
+
+Player 1 win:
+hand1: [{0 5} {2 12} {0 12} {3 8} {1 6}]
+hand2: [{2 1} {2 5} {2 7} {0 1} {3 2}]
+
+Score1 '3' || Score2 '3'
+High1 '12' || High2 '1'
+Order1: [12 12 8 6 5] || Order2: [7 5 2 1 1]
+
+Player 1 win:
+hand1: [{0 11} {3 6} {1 6} {0 10} {2 11}]
+hand2: [{3 11} {0 9} {0 2} {3 4} {2 12}]
+Score1 '4' || Score2 '2'
+High1 '11' || High2 '12'
+Order1: [11 11 10 6 6] || Order2: [12 11 9 4 2]
+
+Player 1 win:
+hand1: [{1 11} {2 10} {3 12} {1 8} {3 13}]
+hand2: [{2 4} {3 8} {3 6} {0 6} {2 9}]
+Score1 '6' || Score2 '3'
+High1 '13' || High2 '6'
+Order1: [13 12 11 10 8] || Order2: [9 8 6 6 4]
+
+Player 1 win:
+hand1: [{3 3} {0 12} {0 7} {0 3} {3 1}]
+hand2: [{2 12} {0 2} {1 4} {2 1} {0 8}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '12'
+Order1: [12 7 3 3 1] || Order2: [12 8 4 2 1]
+
+Player 1 win:
+hand1: [{2 11} {2 6} {3 9} {3 6} {2 9}]
+hand2: [{1 10} {3 12} {1 6} {1 2} {1 1}]
+Score1 '4' || Score2 '2'
+High1 '9' || High2 '12'
+Order1: [11 9 9 6 6] || Order2: [12 10 6 2 1]
+
+Player 1 win:
+hand1: [{0 13} {2 12} {1 5} {1 3} {2 3}]
+hand2: [{3 6} {1 7} {0 8} {0 5} {2 13}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '13'
+Order1: [13 12 5 3 3] || Order2: [13 8 7 6 5]
+
+Player 1 win:
+hand1: [{3 1} {2 9} {1 1} {2 10} {0 12}]
+hand2: [{0 11} {3 4} {1 7} {2 13} {1 12}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '13'
+Order1: [12 10 9 1 1] || Order2: [13 12 11 7 4]
+
+HAND2: Hand 1: [{Suit:0 Value:5} {Suit:2 Value:6} {Suit:1 Value:5} {Suit:2 Value:11} {Suit:0 Value:13}] ||| Hand 2: [{Suit:2 Value:1} {Suit:0 Value:1} {Suit:0 Value:3} {Suit:3 Value:4} {Suit:0 Value:4}]
+Player 1 win:
+hand1: [{0 4} {1 10} {3 11} {1 1} {2 1}]
+hand2: [{3 10} {2 13} {1 11} {2 5} {3 6}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '13'
+Order1: [11 10 4 1 1] || Order2: [13 11 10 6 5]
+
+Player 1 win:
+hand1: [{3 5} {2 10} {1 4} {3 11} {1 11}]
+hand2: [{1 8} {3 4} {1 7} {0 1} {3 12}]
+Score1 '3' || Score2 '2'
+High1 '11' || High2 '12'
+Order1: [11 11 10 5 4] || Order2: [12 8 7 4 1]
+
+Player 1 win:
+hand1: [{3 2} {1 6} {1 3} {2 6} {2 4}]
+hand2: [{2 2} {2 5} {0 4} {1 10} {1 2}]
+
+Score1 '3' || Score2 '3'
+High1 '6' || High2 '2'
+Order1: [6 6 4 3 2] || Order2: [10 5 4 2 2]
+
+Player 1 win:
+hand1: [{0 11} {1 6} {0 4} {1 2} {2 2}]
+hand2: [{1 7} {2 9} {1 3} {3 12} {1 8}]
+Score1 '3' || Score2 '2'
+High1 '2' || High2 '12'
+Order1: [11 6 4 2 2] || Order2: [12 9 8 7 3]
+
+Player 1 win:
+hand1: [{3 11} {2 2} {2 6} {0 4} {0 6}]
+hand2: [{0 11} {1 10} {1 6} {1 7} {3 12}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '12'
+Order1: [11 6 6 4 2] || Order2: [12 11 10 7 6]
+
+Player 1 win:
+hand1: [{1 2} {3 12} {0 12} {2 1} {1 3}]
+hand2: [{2 9} {1 13} {2 5} {1 1} {1 6}]
+Score1 '3' || Score2 '2'
+High1 '12' || High2 '13'
+Order1: [12 12 3 2 1] || Order2: [13 9 6 5 1]
+
+Player 1 win:
+hand1: [{2 11} {3 3} {2 9} {2 6} {1 3}]
+hand2: [{0 2} {3 11} {3 7} {2 8} {1 9}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '11'
+Order1: [11 9 6 3 3] || Order2: [11 9 8 7 2]
+
+Player 1 win:
+hand1: [{1 3} {0 3} {2 13} {2 10} {3 4}]
+hand2: [{3 2} {2 9} {1 8} {1 13} {2 7}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '13'
+Order1: [13 10 4 3 3] || Order2: [13 9 8 7 2]
+
+Player 1 win:
+hand1: [{3 2} {0 2} {2 6} {3 3} {1 5}]
+hand2: [{1 6} {1 13} {0 1} {1 8} {0 9}]
+Score1 '3' || Score2 '2'
+High1 '2' || High2 '13'
+Order1: [6 5 3 2 2] || Order2: [13 9 8 6 1]
+
+Player 1 win:
+hand1: [{3 7} {0 8} {0 4} {3 3} {1 5}]
+hand2: [{0 1} {3 11} {2 5} {3 4} {2 2}]
+Score1 '6' || Score2 '2'
+High1 '8' || High2 '11'
+Order1: [8 7 5 4 3] || Order2: [11 5 4 2 1]
+
+Player 1 win:
+hand1: [{1 3} {1 4} {3 10} {2 11} {3 3}]
+hand2: [{0 2} {0 9} {1 13} {0 11} {1 7}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '13'
+Order1: [11 10 4 3 3] || Order2: [13 11 9 7 2]
+
+Player 1 win:
+hand1: [{0 1} {2 4} {0 9} {2 5} {2 9}]
+hand2: [{2 2} {2 12} {1 2} {0 4} {2 10}]
+
+Score1 '3' || Score2 '3'
+High1 '9' || High2 '2'
+Order1: [9 9 5 4 1] || Order2: [12 10 4 2 2]
+
+Player 1 win:
+hand1: [{2 13} {3 2} {0 8} {3 6} {3 3}]
+hand2: [{0 9} {0 12} {0 1} {2 6} {0 2}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 8 6 3 2] || Order2: [12 9 6 2 1]
+
+Player 1 win:
+hand1: [{1 10} {2 13} {3 13} {2 11} {0 7}]
+hand2: [{1 5} {0 12} {1 3} {3 3} {3 11}]
+
+Score1 '3' || Score2 '3'
+High1 '13' || High2 '3'
+Order1: [13 13 11 10 7] || Order2: [12 11 5 3 3]
+
+Player 1 win:
+hand1: [{2 1} {3 2} {2 9} {3 9} {2 8}]
+hand2: [{2 12} {2 5} {2 11} {1 4} {3 7}]
+Score1 '3' || Score2 '2'
+High1 '9' || High2 '12'
+Order1: [9 9 8 2 1] || Order2: [12 11 7 5 4]
+
+Player 1 win:
+hand1: [{0 4} {0 7} {0 12} {2 7} {2 12}]
+hand2: [{1 6} {3 9} {3 13} {2 3} {3 12}]
+Score1 '4' || Score2 '2'
+High1 '12' || High2 '13'
+Order1: [12 12 7 7 4] || Order2: [13 12 9 6 3]
+
+Player 1 win:
+hand1: [{1 1} {1 6} {1 10} {2 4} {2 13}]
+hand2: [{1 5} {3 6} {2 7} {0 4} {1 8}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '8'
+Order1: [13 10 6 4 1] || Order2: [8 7 6 5 4]
+
+Player 1 win:
+hand1: [{3 8} {1 4} {0 8} {1 12} {0 7}]
+hand2: [{2 12} {2 3} {3 13} {3 3} {2 1}]
+
+Score1 '3' || Score2 '3'
+High1 '8' || High2 '3'
+Order1: [12 8 8 7 4] || Order2: [13 12 3 3 1]
+
+Player 1 win:
+hand1: [{3 5} {2 8} {1 12} {3 9} {2 2}]
+hand2: [{0 5} {3 11} {3 10} {1 4} {3 7}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 9 8 5 2] || Order2: [11 10 7 5 4]
+
+Player 1 win:
+hand1: [{0 4} {3 8} {2 9} {3 12} {3 7}]
+hand2: [{0 5} {3 9} {1 11} {1 3} {3 6}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 9 8 7 4] || Order2: [11 9 6 5 3]
+
+Player 1 win:
+hand1: [{1 2} {1 12} {3 5} {3 4} {1 5}]
+hand2: [{0 5} {2 7} {2 13} {2 6} {2 11}]
+Score1 '3' || Score2 '2'
+High1 '5' || High2 '13'
+Order1: [12 5 5 4 2] || Order2: [13 11 7 6 5]
+
+Player 1 win:
+hand1: [{1 11} {2 13} {2 1} {2 10} {1 4}]
+hand2: [{0 5} {3 12} {0 2} {0 6} {1 1}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 11 10 4 1] || Order2: [12 6 5 2 1]
+
+Player 1 win:
+hand1: [{3 11} {0 7} {2 1} {3 7} {2 2}]
+hand2: [{3 5} {0 13} {1 1} {1 9} {1 4}]
+Score1 '3' || Score2 '2'
+High1 '7' || High2 '13'
+Order1: [11 7 7 2 1] || Order2: [13 9 5 4 1]
+
+Player 1 win:
+hand1: [{3 10} {2 10} {2 9} {2 7} {0 2}]
+hand2: [{3 4} {3 9} {1 12} {1 10} {0 5}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '12'
+Order1: [10 10 9 7 2] || Order2: [12 10 9 5 4]
+
+Player 1 win:
+hand1: [{3 5} {2 2} {2 9} {0 5} {0 3}]
+hand2: [{2 12} {3 8} {0 7} {2 4} {3 1}]
+Score1 '3' || Score2 '2'
+High1 '5' || High2 '12'
+Order1: [9 5 5 3 2] || Order2: [12 8 7 4 1]
+
+Player 1 win:
+hand1: [{2 5} {0 12} {2 8} {1 1} {0 4}]
+hand2: [{1 9} {1 2} {0 6} {1 10} {3 3}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '10'
+Order1: [12 8 5 4 1] || Order2: [10 9 6 3 2]
+
+Player 1 win:
+hand1: [{1 3} {3 7} {1 11} {2 9} {2 3}]
+hand2: [{0 8} {3 2} {3 13} {2 10} {1 6}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '13'
+Order1: [11 9 7 3 3] || Order2: [13 10 8 6 2]
+
+Player 1 win:
+hand1: [{1 7} {2 11} {1 4} {3 4} {0 2}]
+hand2: [{2 10} {0 13} {1 12} {2 3} {3 8}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '13'
+Order1: [11 7 4 4 2] || Order2: [13 12 10 8 3]
+
+Player 1 win:
+hand1: [{3 10} {1 11} {3 4} {2 5} {0 8}]
+hand2: [{2 2} {1 1} {0 7} {2 8} {2 9}]
+
+Score1 '2' || Score2 '2'
+High1 '11' || High2 '9'
+Order1: [11 10 8 5 4] || Order2: [9 8 7 2 1]
+
+Player 1 win:
+hand1: [{2 1} {1 3} {3 13} {0 6} {1 10}]
+hand2: [{1 4} {3 1} {3 5} {0 3} {3 2}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '5'
+Order1: [13 10 6 3 1] || Order2: [5 4 3 2 1]
+
+Player 1 win:
+hand1: [{3 12} {2 10} {1 11} {2 9} {2 11}]
+hand2: [{0 12} {0 10} {1 1} {3 4} {3 13}]
+Score1 '3' || Score2 '2'
+High1 '11' || High2 '13'
+Order1: [12 11 11 10 9] || Order2: [13 12 10 4 1]
+
+Player 1 win:
+hand1: [{2 1} {0 6} {1 5} {3 5} {3 6}]
+hand2: [{1 7} {3 4} {3 8} {1 10} {1 2}]
+Score1 '4' || Score2 '2'
+High1 '6' || High2 '10'
+Order1: [6 6 5 5 1] || Order2: [10 8 7 4 2]
+
+Player 1 win:
+hand1: [{2 10} {2 7} {2 4} {1 10} {0 7}]
+hand2: [{0 9} {1 8} {3 3} {3 4} {1 12}]
+Score1 '4' || Score2 '2'
+High1 '10' || High2 '12'
+Order1: [10 10 7 7 4] || Order2: [12 9 8 4 3]
+
+Player 1 win:
+hand1: [{3 9} {2 1} {2 12} {3 2} {3 13}]
+hand2: [{1 12} {2 6} {1 9} {1 2} {3 4}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 12 9 2 1] || Order2: [12 9 6 4 2]
+
+Player 1 win:
+hand1: [{0 13} {2 5} {2 13} {0 6} {2 4}]
+hand2: [{3 12} {0 2} {0 4} {1 13} {1 3}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '13'
+Order1: [13 13 6 5 4] || Order2: [13 12 4 3 2]
+
+Player 1 win:
+hand1: [{3 7} {2 7} {0 13} {2 12} {2 11}]
+hand2: [{1 1} {3 13} {0 5} {3 6} {3 4}]
+Score1 '3' || Score2 '2'
+High1 '7' || High2 '13'
+Order1: [13 12 11 7 7] || Order2: [13 6 5 4 1]
+
+Player 1 win:
+hand1: [{0 5} {0 8} {2 8} {0 1} {2 11}]
+hand2: [{2 7} {1 8} {3 4} {3 1} {3 12}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '12'
+Order1: [11 8 8 5 1] || Order2: [12 8 7 4 1]
+
+Player 1 win:
+hand1: [{0 6} {0 2} {2 5} {1 12} {3 3}]
+hand2: [{3 5} {1 4} {2 3} {3 11} {2 9}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 6 5 3 2] || Order2: [11 9 5 4 3]
+
+Player 1 win:
+hand1: [{1 9} {1 3} {1 1} {2 8} {3 8}]
+hand2: [{1 8} {1 4} {0 1} {3 10} {1 2}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '10'
+Order1: [9 8 8 3 1] || Order2: [10 8 4 2 1]
+
+Player 1 win:
+hand1: [{0 3} {1 5} {2 7} {0 9} {0 1}]
+hand2: [{2 3} {0 7} {2 8} {0 2} {2 6}]
+
+Score1 '2' || Score2 '2'
+High1 '9' || High2 '8'
+Order1: [9 7 5 3 1] || Order2: [8 7 6 3 2]
+
+Player 1 win:
+hand1: [{1 11} {3 12} {1 13} {3 13} {0 1}]
+hand2: [{2 6} {2 13} {2 2} {3 1} {2 8}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '13'
+Order1: [13 13 12 11 1] || Order2: [13 8 6 2 1]
+
+Player 1 win:
+hand1: [{0 2} {2 5} {1 9} {3 7} {2 9}]
+hand2: [{2 2} {1 12} {2 8} {1 6} {2 13}]
+Score1 '3' || Score2 '2'
+High1 '9' || High2 '13'
+Order1: [9 9 7 5 2] || Order2: [13 12 8 6 2]
+
+Player 1 win:
+hand1: [{1 7} {1 11} {0 3} {2 3} {2 7}]
+hand2: [{1 5} {2 2} {1 9} {0 13} {1 13}]
+Score1 '4' || Score2 '3'
+High1 '7' || High2 '13'
+Order1: [11 7 7 3 3] || Order2: [13 13 9 5 2]
+
+Player 1 win:
+hand1: [{3 11} {1 11} {2 7} {2 3} {0 9}]
+hand2: [{3 2} {0 13} {2 9} {0 10} {0 3}]
+Score1 '3' || Score2 '2'
+High1 '11' || High2 '13'
+Order1: [11 11 9 7 3] || Order2: [13 10 9 3 2]
+
+Player 1 win:
+hand1: [{1 12} {0 8} {1 5} {3 12} {2 6}]
+hand2: [{1 2} {3 3} {2 13} {1 9} {3 1}]
+Score1 '3' || Score2 '2'
+High1 '12' || High2 '13'
+Order1: [12 12 8 6 5] || Order2: [13 9 3 2 1]
+
+Player 1 win:
+hand1: [{1 10} {0 9} {2 3} {2 5} {3 10}]
+hand2: [{3 1} {3 3} {1 5} {3 2} {1 3}]
+
+Score1 '3' || Score2 '3'
+High1 '10' || High2 '3'
+Order1: [10 10 9 5 3] || Order2: [5 3 3 2 1]
+
+Player 1 win:
+hand1: [{3 9} {2 7} {3 13} {1 9} {0 13}]
+hand2: [{1 13} {0 10} {2 8} {2 5} {2 6}]
+Score1 '4' || Score2 '2'
+High1 '13' || High2 '13'
+Order1: [13 13 9 9 7] || Order2: [13 10 8 6 5]
+
+Player 1 win:
+hand1: [{1 10} {1 8} {0 12} {0 10} {2 11}]
+hand2: [{1 11} {1 1} {2 9} {3 2} {3 13}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '13'
+Order1: [12 11 10 10 8] || Order2: [13 11 9 2 1]
+
+Player 1 win:
+hand1: [{3 4} {0 10} {1 13} {1 4} {2 8}]
+hand2: [{2 9} {1 3} {3 10} {1 7} {2 12}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '12'
+Order1: [13 10 8 4 4] || Order2: [12 10 9 7 3]
+
+Player 1 win:
+hand1: [{1 12} {2 13} {3 1} {0 12} {0 8}]
+hand2: [{1 1} {2 4} {3 3} {3 2} {0 5}]
+Score1 '3' || Score2 '2'
+High1 '12' || High2 '5'
+Order1: [13 12 12 8 1] || Order2: [5 4 3 2 1]
+
+Player 1 win:
+hand1: [{0 13} {3 13} {0 9} {3 5} {1 8}]
+hand2: [{2 8} {3 12} {2 12} {0 11} {0 3}]
+
+Score1 '3' || Score2 '3'
+High1 '13' || High2 '12'
+Order1: [13 13 9 8 5] || Order2: [12 12 11 8 3]
+
+Player 1 win:
+hand1: [{3 11} {0 5} {1 8} {1 6} {2 11}]
+hand2: [{3 5} {2 5} {3 8} {2 4} {0 10}]
+
+Score1 '3' || Score2 '3'
+High1 '11' || High2 '5'
+Order1: [11 11 8 6 5] || Order2: [10 8 5 5 4]
+
+Player 1 win:
+hand1: [{1 11} {2 11} {1 7} {2 1} {1 1}]
+hand2: [{2 2} {1 8} {1 3} {2 12} {0 12}]
+Score1 '4' || Score2 '3'
+High1 '11' || High2 '12'
+Order1: [11 11 7 1 1] || Order2: [12 12 8 3 2]
+
+Player 1 win:
+hand1: [{3 1} {3 4} {2 7} {0 13} {3 13}]
+hand2: [{3 9} {1 1} {2 10} {2 12} {1 7}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 13 7 4 1] || Order2: [12 10 9 7 1]
+
+Player 1 win:
+hand1: [{0 11} {3 8} {3 3} {0 10} {2 11}]
+hand2: [{2 2} {1 1} {1 6} {1 5} {3 1}]
+
+Score1 '3' || Score2 '3'
+High1 '11' || High2 '1'
+Order1: [11 11 10 8 3] || Order2: [6 5 2 1 1]
+
+Player 1 win:
+hand1: [{0 3} {2 8} {3 10} {1 4} {0 4}]
+hand2: [{0 13} {3 8} {2 9} {3 1} {1 3}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '13'
+Order1: [10 8 4 4 3] || Order2: [13 9 8 3 1]
+
+Player 1 win:
+hand1: [{2 10} {0 13} {1 7} {3 13} {2 12}]
+hand2: [{2 4} {0 7} {1 1} {1 5} {0 9}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '9'
+Order1: [13 13 12 10 7] || Order2: [9 7 5 4 1]
+
+Player 1 win:
+hand1: [{0 1} {3 4} {3 13} {1 13} {2 12}]
+hand2: [{3 2} {0 7} {2 9} {0 5} {1 11}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 13 12 4 1] || Order2: [11 9 7 5 2]
+
+Player 1 win:
+hand1: [{0 5} {0 3} {1 5} {0 6} {2 5}]
+hand2: [{2 1} {2 7} {0 12} {1 11} {1 7}]
+Score1 '5' || Score2 '3'
+High1 '6' || High2 '7'
+Order1: [6 5 5 5 3] || Order2: [12 11 7 7 1]
+
+Player 1 win:
+hand1: [{2 4} {1 6} {2 7} {3 6} {1 1}]
+hand2: [{2 12} {2 6} {1 5} {1 7} {2 10}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '12'
+Order1: [7 6 6 4 1] || Order2: [12 10 7 6 5]
+
+Player 1 win:
+hand1: [{0 4} {3 11} {2 1} {1 13} {1 7}]
+hand2: [{0 8} {2 12} {1 6} {2 3} {1 2}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 11 7 4 1] || Order2: [12 8 6 3 2]
+
+Player 1 win:
+hand1: [{2 13} {2 1} {3 9} {3 13} {3 3}]
+hand2: [{0 8} {1 10} {1 3} {0 4} {2 11}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 13 9 3 1] || Order2: [11 10 8 4 3]
+
+Player 1 win:
+hand1: [{2 4} {1 3} {1 13} {0 12} {2 13}]
+hand2: [{1 11} {1 1} {1 4} {3 7} {1 8}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 13 12 4 3] || Order2: [11 8 7 4 1]
+
+Player 1 win:
+hand1: [{0 10} {1 6} {0 8} {0 6} {1 9}]
+hand2: [{0 4} {3 2} {3 5} {3 4} {3 3}]
+
+Score1 '3' || Score2 '3'
+High1 '6' || High2 '4'
+Order1: [10 9 8 6 6] || Order2: [5 4 4 3 2]
+
+Player 1 win:
+hand1: [{1 1} {3 11} {0 10} {0 1} {3 8}]
+hand2: [{2 4} {3 2} {3 9} {3 13} {2 12}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '13'
+Order1: [11 10 8 1 1] || Order2: [13 12 9 4 2]
+
+Player 1 win:
+hand1: [{1 9} {2 12} {2 4} {3 7} {0 7}]
+hand2: [{3 13} {2 1} {3 1} {1 3} {0 10}]
+
+Score1 '3' || Score2 '3'
+High1 '7' || High2 '1'
+Order1: [12 9 7 7 4] || Order2: [13 10 3 1 1]
+
+Player 1 win:
+hand1: [{1 13} {0 12} {0 2} {2 13} {3 8}]
+hand2: [{1 12} {0 8} {3 11} {1 5} {2 5}]
+
+Score1 '3' || Score2 '3'
+High1 '13' || High2 '5'
+Order1: [13 13 12 8 2] || Order2: [12 11 8 5 5]
+
+Player 1 win:
+hand1: [{0 8} {2 6} {3 2} {1 4} {3 6}]
+hand2: [{1 12} {3 9} {0 7} {0 3} {2 5}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '12'
+Order1: [8 6 6 4 2] || Order2: [12 9 7 5 3]
+
+Player 1 win:
+hand1: [{3 5} {3 13} {1 3} {3 11} {1 5}]
+hand2: [{3 4} {3 6} {3 8} {2 12} {2 9}]
+Score1 '3' || Score2 '2'
+High1 '5' || High2 '12'
+Order1: [13 11 5 5 3] || Order2: [12 9 8 6 4]
+
+Player 1 win:
+hand1: [{0 10} {0 1} {3 10} {2 8} {2 6}]
+hand2: [{2 9} {0 12} {3 7} {3 4} {0 7}]
+
+Score1 '3' || Score2 '3'
+High1 '10' || High2 '7'
+Order1: [10 10 8 6 1] || Order2: [12 9 7 7 4]
+
+Player 1 win:
+hand1: [{3 1} {2 8} {1 3} {3 6} {3 8}]
+hand2: [{0 4} {3 11} {3 5} {1 13} {2 5}]
+
+Score1 '3' || Score2 '3'
+High1 '8' || High2 '5'
+Order1: [8 8 6 3 1] || Order2: [13 11 5 5 4]
+
+Player 1 win:
+hand1: [{2 6} {3 5} {1 10} {3 11} {0 10}]
+hand2: [{1 3} {2 5} {2 11} {0 1} {3 6}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '11'
+Order1: [11 10 10 6 5] || Order2: [11 6 5 3 1]
+
+Player 1 win:
+hand1: [{1 7} {3 9} {0 10} {3 12} {0 1}]
+hand2: [{1 4} {2 11} {1 1} {2 10} {2 6}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 10 9 7 1] || Order2: [11 10 6 4 1]
+
+Player 1 win:
+hand1: [{0 4} {0 13} {3 10} {1 8} {2 10}]
+hand2: [{1 12} {0 1} {0 5} {3 3} {2 4}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '12'
+Order1: [13 10 10 8 4] || Order2: [12 5 4 3 1]
+
+Player 1 win:
+hand1: [{1 12} {1 1} {3 11} {1 8} {0 12}]
+hand2: [{3 3} {2 6} {1 2} {2 9} {0 8}]
+Score1 '3' || Score2 '2'
+High1 '12' || High2 '9'
+Order1: [12 12 11 8 1] || Order2: [9 8 6 3 2]
+
+Player 1 win:
+hand1: [{3 13} {2 4} {2 5} {0 1} {3 1}]
+hand2: [{0 4} {1 9} {2 3} {1 2} {1 7}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '9'
+Order1: [13 5 4 1 1] || Order2: [9 7 4 3 2]
+
+Player 1 win:
+hand1: [{2 6} {0 4} {0 6} {0 7} {0 12}]
+hand2: [{0 5} {2 11} {0 9} {3 12} {3 6}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '12'
+Order1: [12 7 6 6 4] || Order2: [12 11 9 6 5]
+
+Player 1 win:
+hand1: [{0 4} {3 13} {3 12} {1 6} {0 12}]
+hand2: [{2 4} {3 9} {3 5} {1 2} {1 5}]
+
+Score1 '3' || Score2 '3'
+High1 '12' || High2 '5'
+Order1: [13 12 12 6 4] || Order2: [9 5 5 4 2]
+
+Player 1 win:
+hand1: [{2 6} {0 3} {3 13} {3 3} {2 7}]
+hand2: [{2 11} {0 9} {3 2} {0 6} {2 4}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '11'
+Order1: [13 7 6 3 3] || Order2: [11 9 6 4 2]
+
+Player 1 win:
+hand1: [{3 7} {1 9} {2 12} {3 12} {2 8}]
+hand2: [{3 5} {3 13} {3 10} {1 4} {2 1}]
+Score1 '3' || Score2 '2'
+High1 '12' || High2 '13'
+Order1: [12 12 9 8 7] || Order2: [13 10 5 4 1]
+
+Player 1 win:
+hand1: [{3 13} {1 13} {1 1} {2 5} {3 11}]
+hand2: [{1 6} {0 2} {0 9} {2 12} {3 12}]
+
+Score1 '3' || Score2 '3'
+High1 '13' || High2 '12'
+Order1: [13 13 11 5 1] || Order2: [12 12 9 6 2]
+
+Player 1 win:
+hand1: [{2 2} {2 4} {0 1} {2 6} {0 5}]
+hand2: [{3 6} {2 12} {1 4} {3 5} {3 13}]
+Score1 '6' || Score2 '2'
+High1 '6' || High2 '13'
+Order1: [6 5 4 2 1] || Order2: [13 12 6 5 4]
+
+Player 1 win:
+hand1: [{2 11} {2 4} {3 9} {1 13} {3 8}]
+hand2: [{1 12} {3 2} {1 9} {3 1} {3 3}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 11 9 8 4] || Order2: [12 9 3 2 1]
+
+Player 1 win:
+hand1: [{1 8} {3 11} {0 9} {0 4} {2 9}]
+hand2: [{1 4} {0 8} {0 13} {0 11} {1 1}]
+Score1 '3' || Score2 '2'
+High1 '9' || High2 '13'
+Order1: [11 9 9 8 4] || Order2: [13 11 8 4 1]
+
+Player 1 win:
+hand1: [{3 13} {1 2} {0 3} {1 13} {3 7}]
+hand2: [{0 7} {2 6} {2 8} {3 9} {1 10}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '10'
+Order1: [13 13 7 3 2] || Order2: [10 9 8 7 6]
+
+Player 1 win:
+hand1: [{2 4} {2 5} {2 8} {3 7} {0 9}]
+hand2: [{2 13} {0 12} {0 4} {1 4} {2 7}]
+Score1 '6' || Score2 '3'
+High1 '9' || High2 '4'
+Order1: [9 8 7 5 4] || Order2: [13 12 7 4 4]
+
+Player 1 win:
+hand1: [{2 13} {1 4} {3 13} {0 11} {3 6}]
+hand2: [{0 1} {2 8} {0 6} {1 6} {1 9}]
+
+Score1 '3' || Score2 '3'
+High1 '13' || High2 '6'
+Order1: [13 13 11 6 4] || Order2: [9 8 6 6 1]
+
+Player 1 win:
+hand1: [{1 1} {2 9} {3 3} {0 6} {3 1}]
+hand2: [{1 11} {1 8} {3 4} {0 9} {1 6}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '11'
+Order1: [9 6 3 1 1] || Order2: [11 9 8 6 4]
+
+Player 1 win:
+hand1: [{2 10} {2 5} {1 13} {3 12} {3 2}]
+hand2: [{1 2} {2 3} {0 6} {0 9} {1 12}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 12 10 5 2] || Order2: [12 9 6 3 2]
+
+Player 1 win:
+hand1: [{0 6} {2 13} {0 12} {1 7} {0 3}]
+hand2: [{1 8} {2 4} {3 2} {2 5} {2 9}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '9'
+Order1: [13 12 7 6 3] || Order2: [9 8 5 4 2]
+
+HAND2: Hand 1: [{Suit:1 Value:8} {Suit:1 Value:6} {Suit:0 Value:2} {Suit:2 Value:4} {Suit:3 Value:11}] ||| Hand 2: [{Suit:1 Value:1} {Suit:3 Value:2} {Suit:3 Value:13} {Suit:1 Value:13} {Suit:0 Value:4}]
+Player 1 win:
+hand1: [{0 10} {3 9} {3 1} {1 3} {2 9}]
+hand2: [{0 2} {0 12} {3 13} {2 2} {2 6}]
+
+Score1 '3' || Score2 '3'
+High1 '9' || High2 '2'
+Order1: [10 9 9 3 1] || Order2: [13 12 6 2 2]
+
+Player 1 win:
+hand1: [{2 13} {1 3} {0 4} {3 3} {2 5}]
+hand2: [{3 12} {1 10} {1 2} {0 5} {3 1}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '12'
+Order1: [13 5 4 3 3] || Order2: [12 10 5 2 1]
+
+Player 1 win:
+hand1: [{1 6} {2 1} {0 8} {0 6} {1 12}]
+hand2: [{1 4} {3 5} {2 4} {0 2} {1 10}]
+
+Score1 '3' || Score2 '3'
+High1 '6' || High2 '4'
+Order1: [12 8 6 6 1] || Order2: [10 5 4 4 2]
+
+Player 1 win:
+hand1: [{1 2} {1 9} {1 8} {0 3} {3 11}]
+hand2: [{3 9} {0 10} {3 5} {0 8} {2 4}]
+
+Score1 '2' || Score2 '2'
+High1 '11' || High2 '10'
+Order1: [11 9 8 3 2] || Order2: [10 9 8 5 4]
+
+Player 1 win:
+hand1: [{1 6} {2 5} {1 4} {3 4} {1 5}]
+hand2: [{2 3} {0 6} {0 8} {0 5} {0 13}]
+Score1 '4' || Score2 '2'
+High1 '5' || High2 '13'
+Order1: [6 5 5 4 4] || Order2: [13 8 6 5 3]
+
+Player 1 win:
+hand1: [{3 13} {0 1} {3 6} {1 12} {1 1}]
+hand2: [{1 3} {2 1} {2 8} {0 6} {2 2}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '8'
+Order1: [13 12 6 1 1] || Order2: [8 6 3 2 1]
+
+Player 1 win:
+hand1: [{0 7} {2 2} {3 3} {2 3} {2 4}]
+hand2: [{0 5} {1 4} {1 13} {0 2} {3 2}]
+
+Score1 '3' || Score2 '3'
+High1 '3' || High2 '2'
+Order1: [7 4 3 3 2] || Order2: [13 5 4 2 2]
+
+Player 1 win:
+hand1: [{0 8} {1 2} {1 13} {2 3} {2 11}]
+hand2: [{2 7} {3 8} {0 11} {0 4} {3 3}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 11 8 3 2] || Order2: [11 8 7 4 3]
+
+Player 1 win:
+hand1: [{0 13} {3 6} {0 2} {0 7} {2 7}]
+hand2: [{0 6} {2 11} {0 4} {3 8} {3 1}]
+Score1 '3' || Score2 '2'
+High1 '7' || High2 '11'
+Order1: [13 7 7 6 2] || Order2: [11 8 6 4 1]
+
+Player 1 win:
+hand1: [{2 11} {0 12} {2 2} {1 1} {2 1}]
+hand2: [{1 2} {2 6} {3 9} {2 3} {3 11}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '11'
+Order1: [12 11 2 1 1] || Order2: [11 9 6 3 2]
+
+Player 1 win:
+hand1: [{1 1} {0 4} {3 6} {0 3} {2 2}]
+hand2: [{0 11} {1 10} {2 10} {3 5} {0 7}]
+Score1 '6' || Score2 '3'
+High1 '6' || High2 '10'
+Order1: [6 4 3 2 1] || Order2: [11 10 10 7 5]
+
+Player 1 win:
+hand1: [{1 3} {0 11} {1 6} {3 11} {2 2}]
+hand2: [{3 13} {0 9} {2 7} {2 4} {2 9}]
+
+Score1 '3' || Score2 '3'
+High1 '11' || High2 '9'
+Order1: [11 11 6 3 2] || Order2: [13 9 9 7 4]
+
+Player 1 win:
+hand1: [{0 8} {1 9} {2 1} {3 9} {1 10}]
+hand2: [{3 6} {2 2} {3 2} {0 9} {0 11}]
+
+Score1 '3' || Score2 '3'
+High1 '9' || High2 '2'
+Order1: [10 9 9 8 1] || Order2: [11 9 6 2 2]
+
+Player 1 win:
+hand1: [{0 1} {0 12} {1 6} {3 3} {2 3}]
+hand2: [{0 2} {2 10} {3 11} {3 6} {1 12}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '12'
+Order1: [12 6 3 3 1] || Order2: [12 11 10 6 2]
+
+Player 1 win:
+hand1: [{1 3} {1 10} {2 13} {3 8} {1 2}]
+hand2: [{2 10} {1 5} {0 7} {3 11} {3 3}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 10 8 3 2] || Order2: [11 10 7 5 3]
+
+Player 1 win:
+hand1: [{1 5} {1 7} {3 13} {0 6} {0 5}]
+hand2: [{3 2} {0 12} {2 13} {3 4} {0 9}]
+Score1 '3' || Score2 '2'
+High1 '5' || High2 '13'
+Order1: [13 7 6 5 5] || Order2: [13 12 9 4 2]
+
+Player 1 win:
+hand1: [{2 12} {1 7} {2 2} {2 9} {2 7}]
+hand2: [{3 3} {2 4} {2 8} {1 5} {0 3}]
+
+Score1 '3' || Score2 '3'
+High1 '7' || High2 '3'
+Order1: [12 9 7 7 2] || Order2: [8 5 4 3 3]
+
+Player 1 win:
+hand1: [{0 8} {2 3} {0 3} {1 4} {3 6}]
+hand2: [{1 12} {3 1} {0 1} {3 8} {0 10}]
+
+Score1 '3' || Score2 '3'
+High1 '3' || High2 '1'
+Order1: [8 6 4 3 3] || Order2: [12 10 8 1 1]
+
+Player 1 win:
+hand1: [{1 4} {2 10} {1 9} {3 8} {0 8}]
+hand2: [{0 4} {2 6} {0 12} {1 10} {2 5}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '12'
+Order1: [10 9 8 8 4] || Order2: [12 10 6 5 4]
+
+Player 1 win:
+hand1: [{0 1} {1 10} {3 1} {0 6} {1 1}]
+hand2: [{1 2} {3 7} {3 12} {3 9} {0 3}]
+Score1 '5' || Score2 '2'
+High1 '10' || High2 '12'
+Order1: [10 6 1 1 1] || Order2: [12 9 7 3 2]
+
+Player 1 win:
+hand1: [{0 10} {1 10} {2 2} {1 13} {0 11}]
+hand2: [{0 8} {0 6} {2 7} {1 11} {1 1}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '11'
+Order1: [13 11 10 10 2] || Order2: [11 8 7 6 1]
+
+Player 1 win:
+hand1: [{1 2} {0 5} {3 4} {0 3} {1 7}]
+hand2: [{1 8} {1 12} {2 5} {3 11} {2 11}]
+Score1 '6' || Score2 '3'
+High1 '7' || High2 '11'
+Order1: [7 5 4 3 2] || Order2: [12 11 11 8 5]
+
+Player 1 win:
+hand1: [{1 1} {0 12} {2 4} {2 2} {2 6}]
+hand2: [{0 6} {1 5} {3 8} {3 11} {3 7}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 6 4 2 1] || Order2: [11 8 7 6 5]
+
+Player 1 win:
+hand1: [{0 7} {2 12} {1 13} {3 1} {0 12}]
+hand2: [{2 9} {1 5} {2 10} {1 12} {0 6}]
+Score1 '3' || Score2 '2'
+High1 '12' || High2 '12'
+Order1: [13 12 12 7 1] || Order2: [12 10 9 6 5]
+
+Player 1 win:
+hand1: [{1 2} {3 12} {0 1} {0 2} {2 11}]
+hand2: [{3 10} {1 9} {1 11} {3 4} {0 7}]
+Score1 '3' || Score2 '2'
+High1 '2' || High2 '11'
+Order1: [12 11 2 2 1] || Order2: [11 10 9 7 4]
+
+Player 1 win:
+hand1: [{1 10} {1 2} {1 13} {1 6} {3 10}]
+hand2: [{2 10} {0 7} {2 8} {1 11} {3 4}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '11'
+Order1: [13 10 10 6 2] || Order2: [11 10 8 7 4]
+
+Player 1 win:
+hand1: [{3 10} {2 5} {2 4} {0 1} {2 13}]
+hand2: [{1 7} {3 6} {0 4} {0 10} {3 2}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '10'
+Order1: [13 10 5 4 1] || Order2: [10 7 6 4 2]
+
+Player 1 win:
+hand1: [{3 7} {1 9} {2 4} {2 8} {2 7}]
+hand2: [{0 2} {1 10} {0 4} {2 6} {2 13}]
+Score1 '3' || Score2 '2'
+High1 '7' || High2 '13'
+Order1: [9 8 7 7 4] || Order2: [13 10 6 4 2]
+
+Player 1 win:
+hand1: [{3 10} {0 6} {2 3} {0 7} {1 3}]
+hand2: [{2 10} {0 5} {0 11} {2 4} {0 3}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '11'
+Order1: [10 7 6 3 3] || Order2: [11 10 5 4 3]
+
+HAND2: Hand 1: [{Suit:1 Value:7} {Suit:3 Value:2} {Suit:3 Value:10} {Suit:1 Value:9} {Suit:0 Value:3}] ||| Hand 2: [{Suit:0 Value:1} {Suit:3 Value:13} {Suit:2 Value:4} {Suit:1 Value:13} {Suit:2 Value:1}]
+Player 1 win:
+hand1: [{3 7} {0 4} {3 4} {0 5} {2 6}]
+hand2: [{3 3} {2 12} {3 8} {3 9} {3 10}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '12'
+Order1: [7 6 5 4 4] || Order2: [12 10 9 8 3]
+
+Player 1 win:
+hand1: [{1 6} {2 7} {2 2} {2 5} {0 4}]
+hand2: [{3 10} {1 9} {3 13} {0 6} {2 6}]
+Score1 '6' || Score2 '3'
+High1 '7' || High2 '6'
+Order1: [7 6 5 4 2] || Order2: [13 10 9 6 6]
+
+Player 1 win:
+hand1: [{2 1} {3 8} {2 9} {3 3} {1 13}]
+hand2: [{3 7} {1 5} {3 11} {3 10} {0 2}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 9 8 3 1] || Order2: [11 10 7 5 2]
+
+Player 1 win:
+hand1: [{1 13} {0 1} {2 2} {1 10} {1 4}]
+hand2: [{0 11} {3 3} {3 1} {0 4} {2 6}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 10 4 2 1] || Order2: [11 6 4 3 1]
+
+Player 1 win:
+hand1: [{2 6} {0 11} {0 6} {1 5} {1 11}]
+hand2: [{0 7} {3 1} {1 6} {3 10} {2 1}]
+Score1 '4' || Score2 '3'
+High1 '11' || High2 '1'
+Order1: [11 11 6 6 5] || Order2: [10 7 6 1 1]
+
+Player 1 win:
+hand1: [{1 1} {3 11} {2 1} {0 1} {1 10}]
+hand2: [{1 8} {3 4} {3 1} {3 10} {0 10}]
+Score1 '5' || Score2 '3'
+High1 '11' || High2 '10'
+Order1: [11 10 1 1 1] || Order2: [10 10 8 4 1]
+
+Player 1 win:
+hand1: [{1 6} {1 4} {1 8} {2 7} {3 6}]
+hand2: [{3 5} {3 7} {1 5} {2 8} {0 10}]
+
+Score1 '3' || Score2 '3'
+High1 '6' || High2 '5'
+Order1: [8 7 6 6 4] || Order2: [10 8 7 5 5]
+
+Player 1 win:
+hand1: [{2 4} {1 12} {0 5} {1 9} {0 4}]
+hand2: [{2 7} {0 9} {3 5} {1 2} {0 13}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '13'
+Order1: [12 9 5 4 4] || Order2: [13 9 7 5 2]
+
+Player 1 win:
+hand1: [{0 4} {0 9} {1 11} {0 6} {1 9}]
+hand2: [{2 2} {1 6} {3 5} {1 12} {3 2}]
+
+Score1 '3' || Score2 '3'
+High1 '9' || High2 '2'
+Order1: [11 9 9 6 4] || Order2: [12 6 5 2 2]
+
+Player 1 win:
+hand1: [{2 3} {1 7} {3 3} {3 1} {0 7}]
+hand2: [{0 8} {3 6} {3 8} {0 13} {2 9}]
+Score1 '4' || Score2 '3'
+High1 '7' || High2 '8'
+Order1: [7 7 3 3 1] || Order2: [13 9 8 8 6]
+
+Player 1 win:
+hand1: [{2 8} {1 1} {0 8} {1 3} {3 7}]
+hand2: [{2 13} {3 6} {3 2} {3 5} {2 4}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '13'
+Order1: [8 8 7 3 1] || Order2: [13 6 5 4 2]
+
+Player 1 win:
+hand1: [{2 5} {1 3} {0 6} {1 7} {0 2}]
+hand2: [{0 4} {1 10} {0 13} {3 8} {1 8}]
+Score1 '6' || Score2 '3'
+High1 '7' || High2 '8'
+Order1: [7 6 5 3 2] || Order2: [13 10 8 8 4]
+
+Player 1 win:
+hand1: [{1 8} {0 8} {0 3} {3 3} {0 9}]
+hand2: [{3 5} {3 11} {2 7} {2 8} {2 6}]
+Score1 '4' || Score2 '2'
+High1 '8' || High2 '11'
+Order1: [9 8 8 3 3] || Order2: [11 8 7 6 5]
+
+Player 1 win:
+hand1: [{0 1} {1 13} {2 7} {2 3} {3 13}]
+hand2: [{1 7} {1 1} {0 13} {3 6} {1 9}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '13'
+Order1: [13 13 7 3 1] || Order2: [13 9 7 6 1]
+
+Player 1 win:
+hand1: [{0 13} {2 5} {2 10} {0 10} {3 4}]
+hand2: [{2 13} {1 11} {1 1} {3 10} {3 9}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '13'
+Order1: [13 10 10 5 4] || Order2: [13 11 10 9 1]
+
+Player 1 win:
+hand1: [{3 9} {0 7} {2 13} {3 4} {0 13}]
+hand2: [{1 11} {1 13} {2 5} {1 9} {0 4}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '13'
+Order1: [13 13 9 7 4] || Order2: [13 11 9 5 4]
+
+Player 1 win:
+hand1: [{2 12} {2 3} {0 6} {3 3} {3 7}]
+hand2: [{1 8} {1 9} {0 1} {0 5} {0 2}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '9'
+Order1: [12 7 6 3 3] || Order2: [9 8 5 2 1]
+
+Player 1 win:
+hand1: [{0 2} {3 12} {2 3} {3 11} {0 11}]
+hand2: [{3 2} {0 7} {1 7} {3 9} {2 6}]
+
+Score1 '3' || Score2 '3'
+High1 '11' || High2 '7'
+Order1: [12 11 11 3 2] || Order2: [9 7 7 6 2]
+
+Player 1 win:
+hand1: [{1 2} {3 13} {1 10} {3 12} {2 10}]
+hand2: [{0 12} {2 3} {0 9} {0 8} {1 1}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '12'
+Order1: [13 12 10 10 2] || Order2: [12 9 8 3 1]
+
+Player 1 win:
+hand1: [{2 11} {0 12} {3 9} {3 11} {1 1}]
+hand2: [{0 2} {2 7} {2 1} {1 11} {0 13}]
+Score1 '3' || Score2 '2'
+High1 '11' || High2 '13'
+Order1: [12 11 11 9 1] || Order2: [13 11 7 2 1]
+
+Player 1 win:
+hand1: [{3 8} {0 8} {0 10} {1 9} {0 11}]
+hand2: [{1 2} {2 1} {2 10} {1 4} {0 6}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '10'
+Order1: [11 10 9 8 8] || Order2: [10 6 4 2 1]
+
+Player 1 win:
+hand1: [{1 5} {2 2} {3 2} {2 1} {2 3}]
+hand2: [{3 11} {3 1} {0 9} {3 4} {1 1}]
+
+Score1 '3' || Score2 '3'
+High1 '2' || High2 '1'
+Order1: [5 3 2 2 1] || Order2: [11 9 4 1 1]
+
+Player 1 win:
+hand1: [{3 1} {0 5} {3 5} {2 1} {1 10}]
+hand2: [{0 11} {2 13} {0 6} {0 3} {0 12}]
+Score1 '4' || Score2 '2'
+High1 '5' || High2 '13'
+Order1: [10 5 5 1 1] || Order2: [13 12 11 6 3]
+
+Player 1 win:
+hand1: [{2 3} {3 8} {1 5} {3 5} {1 8}]
+hand2: [{1 13} {3 7} {0 2} {0 6} {3 12}]
+Score1 '4' || Score2 '2'
+High1 '8' || High2 '13'
+Order1: [8 8 5 5 3] || Order2: [13 12 7 6 2]
+
+Player 1 win:
+hand1: [{1 10} {0 13} {1 5} {2 9} {3 10}]
+hand2: [{3 5} {3 13} {2 2} {3 4} {3 11}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '13'
+Order1: [13 10 10 9 5] || Order2: [13 11 5 4 2]
+
+Player 1 win:
+hand1: [{1 10} {0 10} {3 10} {2 2} {2 6}]
+hand2: [{2 7} {2 10} {1 11} {0 2} {2 3}]
+Score1 '5' || Score2 '2'
+High1 '10' || High2 '11'
+Order1: [10 10 10 6 2] || Order2: [11 10 7 3 2]
+
+Player 1 win:
+hand1: [{1 1} {1 13} {0 4} {3 12} {2 4}]
+hand2: [{0 6} {3 11} {0 10} {0 13} {3 1}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '13'
+Order1: [13 12 4 4 1] || Order2: [13 11 10 6 1]
+
+Player 1 win:
+hand1: [{1 10} {0 11} {3 7} {2 7} {1 9}]
+hand2: [{0 4} {1 4} {0 13} {1 7} {1 5}]
+
+Score1 '3' || Score2 '3'
+High1 '7' || High2 '4'
+Order1: [11 10 9 7 7] || Order2: [13 7 5 4 4]
+
+Player 1 win:
+hand1: [{0 2} {2 10} {2 7} {3 11} {0 10}]
+hand2: [{1 2} {0 3} {3 5} {1 4} {2 2}]
+
+Score1 '3' || Score2 '3'
+High1 '10' || High2 '2'
+Order1: [11 10 10 7 2] || Order2: [5 4 3 2 2]
+
+Player 1 win:
+hand1: [{3 5} {2 3} {1 3} {0 13} {0 4}]
+hand2: [{2 4} {0 2} {3 10} {1 6} {3 7}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '10'
+Order1: [13 5 4 3 3] || Order2: [10 7 6 4 2]
+
+Player 1 win:
+hand1: [{0 7} {0 13} {0 1} {0 2} {2 10}]
+hand2: [{1 2} {3 6} {1 11} {0 3} {3 12}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 10 7 2 1] || Order2: [12 11 6 3 2]
+
+Player 1 win:
+hand1: [{2 5} {0 1} {3 12} {0 4} {0 7}]
+hand2: [{3 1} {1 2} {2 7} {2 6} {3 11}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 7 5 4 1] || Order2: [11 7 6 2 1]
+
+Player 1 win:
+hand1: [{2 1} {2 6} {1 12} {1 11} {0 13}]
+hand2: [{1 9} {2 11} {3 5} {1 3} {3 7}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 12 11 6 1] || Order2: [11 9 7 5 3]
+
+Player 1 win:
+hand1: [{1 2} {1 5} {1 4} {2 4} {3 10}]
+hand2: [{1 10} {2 12} {2 2} {3 4} {2 9}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '12'
+Order1: [10 5 4 4 2] || Order2: [12 10 9 4 2]
+
+Player 1 win:
+hand1: [{2 3} {2 10} {2 11} {2 2} {0 3}]
+hand2: [{1 6} {2 1} {1 13} {2 5} {3 8}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '13'
+Order1: [11 10 3 3 2] || Order2: [13 8 6 5 1]
+
+Player 1 win:
+hand1: [{1 8} {1 9} {1 13} {0 10} {0 12}]
+hand2: [{3 3} {3 10} {0 4} {3 9} {2 2}]
+Score1 '6' || Score2 '2'
+High1 '13' || High2 '10'
+Order1: [13 12 10 9 8] || Order2: [10 9 4 3 2]
+
+Player 1 win:
+hand1: [{2 6} {0 3} {3 8} {2 13} {1 3}]
+hand2: [{3 6} {2 11} {2 8} {2 1} {0 12}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '12'
+Order1: [13 8 6 3 3] || Order2: [12 11 8 6 1]
+
+Player 1 win:
+hand1: [{2 2} {3 7} {2 7} {2 12} {1 7}]
+hand2: [{1 10} {1 4} {0 12} {0 1} {3 4}]
+Score1 '5' || Score2 '3'
+High1 '12' || High2 '4'
+Order1: [12 7 7 7 2] || Order2: [12 10 4 4 1]
+
+Player 1 win:
+hand1: [{2 7} {1 7} {1 6} {2 10} {3 10}]
+hand2: [{2 5} {1 3} {1 8} {1 13} {2 3}]
+Score1 '4' || Score2 '3'
+High1 '10' || High2 '3'
+Order1: [10 10 7 7 6] || Order2: [13 8 5 3 3]
+
+Player 1 win:
+hand1: [{3 11} {1 7} {3 7} {3 1} {2 5}]
+hand2: [{3 9} {3 8} {1 13} {0 11} {2 4}]
+Score1 '3' || Score2 '2'
+High1 '7' || High2 '13'
+Order1: [11 7 7 5 1] || Order2: [13 11 9 8 4]
+
+Player 1 win:
+hand1: [{0 11} {1 11} {2 10} {3 2} {1 2}]
+hand2: [{1 4} {0 3} {0 12} {2 7} {0 6}]
+Score1 '4' || Score2 '2'
+High1 '11' || High2 '12'
+Order1: [11 11 10 2 2] || Order2: [12 7 6 4 3]
+
+Player 1 win:
+hand1: [{3 11} {0 8} {0 11} {0 4} {0 3}]
+hand2: [{3 3} {0 12} {2 2} {1 10} {3 13}]
+Score1 '3' || Score2 '2'
+High1 '11' || High2 '13'
+Order1: [11 11 8 4 3] || Order2: [13 12 10 3 2]
+
+Player 1 win:
+hand1: [{1 1} {0 8} {3 1} {0 13} {0 2}]
+hand2: [{3 5} {1 8} {3 6} {1 9} {2 12}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '12'
+Order1: [13 8 2 1 1] || Order2: [12 9 8 6 5]
+
+HAND2: Hand 1: [{Suit:1 Value:7} {Suit:0 Value:2} {Suit:3 Value:12} {Suit:1 Value:6} {Suit:1 Value:4}] ||| Hand 2: [{Suit:2 Value:1} {Suit:2 Value:3} {Suit:0 Value:4} {Suit:2 Value:13} {Suit:0 Value:13}]
+Player 1 win:
+hand1: [{3 5} {0 6} {0 13} {2 6} {1 11}]
+hand2: [{0 5} {3 1} {3 9} {3 10} {2 13}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '13'
+Order1: [13 11 6 6 5] || Order2: [13 10 9 5 1]
+
+Player 1 win:
+hand1: [{3 10} {0 1} {1 4} {2 13} {1 5}]
+hand2: [{1 11} {3 3} {1 2} {1 9} {0 10}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 10 5 4 1] || Order2: [11 10 9 3 2]
+
+Player 1 win:
+hand1: [{0 3} {1 9} {2 9} {1 1} {1 7}]
+hand2: [{2 5} {2 12} {0 1} {3 10} {2 8}]
+Score1 '3' || Score2 '2'
+High1 '9' || High2 '12'
+Order1: [9 9 7 3 1] || Order2: [12 10 8 5 1]
+
+Player 1 win:
+hand1: [{1 11} {1 1} {2 1} {3 11} {1 8}]
+hand2: [{3 3} {2 2} {3 7} {0 10} {2 11}]
+Score1 '4' || Score2 '2'
+High1 '11' || High2 '11'
+Order1: [11 11 8 1 1] || Order2: [11 10 7 3 2]
+
+Player 1 win:
+hand1: [{1 2} {2 9} {0 7} {1 4} {1 3}]
+hand2: [{1 1} {2 5} {3 7} {1 6} {0 3}]
+
+Score1 '2' || Score2 '2'
+High1 '9' || High2 '7'
+Order1: [9 7 4 3 2] || Order2: [7 6 5 3 1]
+
+Player 1 win:
+hand1: [{1 7} {3 1} {0 1} {1 1} {2 3}]
+hand2: [{1 3} {2 5} {3 6} {2 4} {2 2}]
+Score1 '5' || Score2 '2'
+High1 '7' || High2 '6'
+Order1: [7 3 1 1 1] || Order2: [6 5 4 3 2]
+
+Player 1 win:
+hand1: [{3 3} {0 13} {3 12} {0 8} {2 12}]
+hand2: [{1 4} {1 3} {0 5} {1 10} {2 6}]
+Score1 '3' || Score2 '2'
+High1 '12' || High2 '10'
+Order1: [13 12 12 8 3] || Order2: [10 6 5 4 3]
+
+Player 1 win:
+hand1: [{1 8} {3 10} {0 8} {0 13} {2 10}]
+hand2: [{2 7} {0 11} {0 2} {2 12} {0 7}]
+Score1 '4' || Score2 '3'
+High1 '10' || High2 '7'
+Order1: [13 10 10 8 8] || Order2: [12 11 7 7 2]
+
+Player 1 win:
+hand1: [{1 6} {0 10} {0 8} {1 5} {2 10}]
+hand2: [{2 8} {0 6} {1 7} {3 8} {0 3}]
+
+Score1 '3' || Score2 '3'
+High1 '10' || High2 '8'
+Order1: [10 10 8 6 5] || Order2: [8 8 7 6 3]
+
+Player 1 win:
+hand1: [{0 5} {2 6} {0 10} {0 12} {0 13}]
+hand2: [{0 6} {3 9} {2 4} {2 5} {1 1}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '9'
+Order1: [13 12 10 6 5] || Order2: [9 6 5 4 1]
+
+Player 1 win:
+hand1: [{2 2} {2 13} {3 12} {0 7} {1 3}]
+hand2: [{0 2} {1 6} {0 10} {0 11} {2 9}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 12 7 3 2] || Order2: [11 10 9 6 2]
+
+Player 1 win:
+hand1: [{2 6} {3 5} {0 6} {3 8} {0 10}]
+hand2: [{1 3} {3 2} {2 2} {1 5} {2 13}]
+
+Score1 '3' || Score2 '3'
+High1 '6' || High2 '2'
+Order1: [10 8 6 6 5] || Order2: [13 5 3 2 2]
+
+Player 1 win:
+hand1: [{2 3} {0 1} {1 1} {1 3} {2 7}]
+hand2: [{0 4} {1 12} {1 7} {1 11} {3 11}]
+Score1 '4' || Score2 '3'
+High1 '3' || High2 '11'
+Order1: [7 3 3 1 1] || Order2: [12 11 11 7 4]
+
+Player 1 win:
+hand1: [{0 2} {2 2} {1 5} {2 11} {1 11}]
+hand2: [{3 1} {2 5} {3 4} {1 1} {3 8}]
+Score1 '4' || Score2 '3'
+High1 '11' || High2 '1'
+Order1: [11 11 5 2 2] || Order2: [8 5 4 1 1]
+
+Player 1 win:
+hand1: [{0 1} {3 7} {0 10} {2 1} {0 2}]
+hand2: [{3 1} {1 5} {1 4} {2 6} {3 13}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '13'
+Order1: [10 7 2 1 1] || Order2: [13 6 5 4 1]
+
+Player 1 win:
+hand1: [{1 11} {2 4} {0 8} {1 8} {3 3}]
+hand2: [{2 5} {2 12} {2 1} {1 3} {1 6}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '12'
+Order1: [11 8 8 4 3] || Order2: [12 6 5 3 1]
+
+Player 1 win:
+hand1: [{1 8} {2 1} {0 1} {1 10} {2 5}]
+hand2: [{1 5} {1 9} {1 11} {0 10} {1 4}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '11'
+Order1: [10 8 5 1 1] || Order2: [11 10 9 5 4]
+
+Player 1 win:
+hand1: [{2 6} {1 13} {0 7} {1 12} {2 7}]
+hand2: [{0 5} {2 11} {1 10} {3 2} {2 5}]
+
+Score1 '3' || Score2 '3'
+High1 '7' || High2 '5'
+Order1: [13 12 7 7 6] || Order2: [11 10 5 5 2]
+
+Player 1 win:
+hand1: [{2 10} {3 1} {0 10} {1 7} {2 3}]
+hand2: [{0 5} {0 7} {3 5} {3 4} {3 13}]
+
+Score1 '3' || Score2 '3'
+High1 '10' || High2 '5'
+Order1: [10 10 7 3 1] || Order2: [13 7 5 5 4]
+
+Player 1 win:
+hand1: [{1 8} {3 2} {0 13} {0 8} {2 4}]
+hand2: [{1 1} {3 6} {3 13} {1 10} {2 2}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '13'
+Order1: [13 8 8 4 2] || Order2: [13 10 6 2 1]
+
+Player 1 win:
+hand1: [{3 11} {3 8} {1 8} {2 2} {1 10}]
+hand2: [{1 7} {2 12} {0 7} {3 4} {3 3}]
+
+Score1 '3' || Score2 '3'
+High1 '8' || High2 '7'
+Order1: [11 10 8 8 2] || Order2: [12 7 7 4 3]
+
+Player 1 win:
+hand1: [{2 9} {1 13} {1 11} {0 9} {1 12}]
+hand2: [{3 5} {0 3} {2 6} {1 7} {0 1}]
+Score1 '3' || Score2 '2'
+High1 '9' || High2 '7'
+Order1: [13 12 11 9 9] || Order2: [7 6 5 3 1]
+
+Player 1 win:
+hand1: [{0 2} {3 3} {0 11} {3 4} {1 8}]
+hand2: [{0 4} {3 6} {2 3} {1 10} {2 2}]
+
+Score1 '2' || Score2 '2'
+High1 '11' || High2 '10'
+Order1: [11 8 4 3 2] || Order2: [10 6 4 3 2]
+
+Player 1 win:
+hand1: [{0 6} {1 1} {1 12} {2 4} {3 12}]
+hand2: [{0 5} {0 13} {1 11} {2 6} {0 11}]
+
+Score1 '3' || Score2 '3'
+High1 '12' || High2 '11'
+Order1: [12 12 6 4 1] || Order2: [13 11 11 6 5]
+
+Player 1 win:
+hand1: [{0 5} {1 4} {1 13} {0 4} {1 1}]
+hand2: [{1 8} {3 1} {1 6} {3 9} {2 1}]
+
+Score1 '3' || Score2 '3'
+High1 '4' || High2 '1'
+Order1: [13 5 4 4 1] || Order2: [9 8 6 1 1]
+
+Player 1 win:
+hand1: [{3 11} {2 7} {3 6} {0 1} {1 1}]
+hand2: [{1 6} {1 10} {2 1} {0 4} {1 7}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '10'
+Order1: [11 7 6 1 1] || Order2: [10 7 6 4 1]
+
+Player 1 win:
+hand1: [{2 2} {1 6} {3 13} {0 8} {0 1}]
+hand2: [{2 8} {3 10} {2 9} {1 3} {3 1}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '10'
+Order1: [13 8 6 2 1] || Order2: [10 9 8 3 1]
+
+Player 1 win:
+hand1: [{0 10} {0 9} {3 9} {2 2} {3 3}]
+hand2: [{0 3} {2 4} {3 4} {2 11} {1 1}]
+
+Score1 '3' || Score2 '3'
+High1 '9' || High2 '4'
+Order1: [10 9 9 3 2] || Order2: [11 4 4 3 1]
+
+Player 1 win:
+hand1: [{1 7} {2 10} {3 8} {0 5} {3 10}]
+hand2: [{0 2} {3 13} {2 5} {3 9} {1 11}]
+Score1 '3' || Score2 '2'
+High1 '10' || High2 '13'
+Order1: [10 10 8 7 5] || Order2: [13 11 9 5 2]
+
+Player 1 win:
+hand1: [{1 12} {2 7} {3 2} {1 6} {3 9}]
+hand2: [{3 6} {3 7} {0 8} {2 3} {2 2}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '8'
+Order1: [12 9 7 6 2] || Order2: [8 7 6 3 2]
+
+Player 1 win:
+hand1: [{0 4} {1 7} {2 4} {1 2} {2 3}]
+hand2: [{3 2} {1 6} {3 7} {2 13} {0 2}]
+
+Score1 '3' || Score2 '3'
+High1 '4' || High2 '2'
+Order1: [7 4 4 3 2] || Order2: [13 7 6 2 2]
+
+Player 1 win:
+hand1: [{2 13} {2 9} {1 6} {0 2} {3 13}]
+hand2: [{3 6} {1 10} {2 11} {1 5} {0 5}]
+
+Score1 '3' || Score2 '3'
+High1 '13' || High2 '5'
+Order1: [13 13 9 6 2] || Order2: [11 10 6 5 5]
+
+Player 1 win:
+hand1: [{1 5} {1 4} {0 6} {2 6} {3 9}]
+hand2: [{3 13} {3 10} {2 4} {0 1} {2 1}]
+
+Score1 '3' || Score2 '3'
+High1 '6' || High2 '1'
+Order1: [9 6 6 5 4] || Order2: [13 10 4 1 1]
+
+Player 1 win:
+hand1: [{1 12} {0 9} {3 1} {0 5} {2 6}]
+hand2: [{2 1} {1 9} {1 7} {3 8} {2 11}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 9 6 5 1] || Order2: [11 9 8 7 1]
+
+Player 1 win:
+hand1: [{2 10} {3 5} {3 10} {1 10} {0 1}]
+hand2: [{1 13} {1 5} {3 2} {0 12} {3 7}]
+Score1 '5' || Score2 '2'
+High1 '10' || High2 '13'
+Order1: [10 10 10 5 1] || Order2: [13 12 7 5 2]
+
+Player 1 win:
+hand1: [{0 12} {3 10} {2 8} {3 4} {0 3}]
+hand2: [{1 3} {0 2} {2 6} {2 11} {1 4}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 10 8 4 3] || Order2: [11 6 4 3 2]
+
+Player 1 win:
+hand1: [{3 10} {2 9} {2 7} {3 11} {0 13}]
+hand2: [{1 3} {0 5} {2 2} {2 4} {1 1}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '5'
+Order1: [13 11 10 9 7] || Order2: [5 4 3 2 1]
+
+Player 1 win:
+hand1: [{2 11} {3 2} {3 10} {2 13} {3 7}]
+hand2: [{0 9} {1 6} {2 5} {1 11} {2 12}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 11 10 7 2] || Order2: [12 11 9 6 5]
+
+Player 1 win:
+hand1: [{2 6} {0 1} {1 7} {1 11} {0 6}]
+hand2: [{1 13} {3 5} {3 1} {0 9} {0 12}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '13'
+Order1: [11 7 6 6 1] || Order2: [13 12 9 5 1]
+
+Player 1 win:
+hand1: [{2 4} {1 5} {0 6} {0 12} {3 6}]
+hand2: [{0 13} {1 7} {1 4} {2 6} {3 2}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '13'
+Order1: [12 6 6 5 4] || Order2: [13 7 6 4 2]
+
+Player 1 win:
+hand1: [{2 13} {3 9} {3 3} {1 6} {3 10}]
+hand2: [{1 7} {0 11} {1 2} {0 4} {2 8}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 10 9 6 3] || Order2: [11 8 7 4 2]
+
+Player 1 win:
+hand1: [{0 2} {1 8} {2 7} {2 8} {2 5}]
+hand2: [{3 11} {2 12} {0 13} {0 4} {0 10}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '13'
+Order1: [8 8 7 5 2] || Order2: [13 12 11 10 4]
+
+Player 1 win:
+hand1: [{3 3} {2 13} {1 3} {2 11} {2 4}]
+hand2: [{3 8} {2 5} {3 10} {0 11} {2 12}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '12'
+Order1: [13 11 4 3 3] || Order2: [12 11 10 8 5]
+
+Player 1 win:
+hand1: [{3 5} {0 13} {1 5} {1 3} {0 4}]
+hand2: [{2 9} {0 8} {3 6} {3 2} {2 4}]
+Score1 '3' || Score2 '2'
+High1 '5' || High2 '9'
+Order1: [13 5 5 4 3] || Order2: [9 8 6 4 2]
+
+Player 1 win:
+hand1: [{2 11} {3 10} {1 6} {3 7} {1 8}]
+hand2: [{1 13} {2 2} {2 5} {1 5} {0 12}]
+Score1 '6' || Score2 '3'
+High1 '11' || High2 '5'
+Order1: [11 10 8 7 6] || Order2: [13 12 5 5 2]
+
+Player 1 win:
+hand1: [{0 10} {1 8} {1 1} {0 5} {3 1}]
+hand2: [{2 10} {3 4} {0 8} {1 12} {3 5}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '12'
+Order1: [10 8 5 1 1] || Order2: [12 10 8 5 4]
+
+Player 1 win:
+hand1: [{1 6} {0 3} {0 6} {0 13} {1 11}]
+hand2: [{1 13} {3 3} {3 4} {3 5} {0 9}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '13'
+Order1: [13 11 6 6 3] || Order2: [13 9 5 4 3]
+
+Player 1 win:
+hand1: [{2 3} {1 7} {3 2} {0 3} {2 10}]
+hand2: [{3 9} {2 6} {0 10} {2 11} {3 12}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '12'
+Order1: [10 7 3 3 2] || Order2: [12 11 10 9 6]
+
+Player 1 win:
+hand1: [{0 9} {1 6} {0 5} {2 9} {0 11}]
+hand2: [{2 4} {1 1} {1 12} {3 9} {2 5}]
+Score1 '3' || Score2 '2'
+High1 '9' || High2 '12'
+Order1: [11 9 9 6 5] || Order2: [12 9 5 4 1]
+
+Player 1 win:
+hand1: [{3 7} {3 6} {1 5} {1 6} {3 8}]
+hand2: [{3 12} {2 13} {1 4} {0 11} {0 10}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '13'
+Order1: [8 7 6 6 5] || Order2: [13 12 11 10 4]
+
+Player 1 win:
+hand1: [{3 7} {0 2} {1 4} {0 6} {2 12}]
+hand2: [{0 4} {0 11} {3 1} {1 7} {0 8}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 7 6 4 2] || Order2: [11 8 7 4 1]
+
+Player 1 win:
+hand1: [{3 1} {0 9} {3 5} {3 11} {1 5}]
+hand2: [{1 12} {0 2} {2 2} {3 13} {1 3}]
+
+Score1 '3' || Score2 '3'
+High1 '5' || High2 '2'
+Order1: [11 9 5 5 1] || Order2: [13 12 3 2 2]
+
+Player 1 win:
+hand1: [{3 2} {1 4} {0 5} {2 2} {1 2}]
+hand2: [{1 10} {2 4} {2 6} {2 1} {0 11}]
+Score1 '5' || Score2 '2'
+High1 '5' || High2 '11'
+Order1: [5 4 2 2 2] || Order2: [11 10 6 4 1]
+
+Player 1 win:
+hand1: [{1 13} {1 4} {1 7} {3 3} {3 4}]
+hand2: [{0 3} {2 1} {3 11} {1 2} {0 2}]
+
+Score1 '3' || Score2 '3'
+High1 '4' || High2 '2'
+Order1: [13 7 4 4 3] || Order2: [11 3 2 2 1]
+
+Player 1 win:
+hand1: [{3 11} {2 9} {3 6} {2 13} {1 13}]
+hand2: [{1 1} {3 9} {0 5} {0 7} {0 13}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '13'
+Order1: [13 13 11 9 6] || Order2: [13 9 7 5 1]
+
+Player 1 win:
+hand1: [{3 5} {3 1} {0 2} {2 1} {3 11}]
+hand2: [{2 4} {0 6} {2 13} {0 9} {2 5}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '13'
+Order1: [11 5 2 1 1] || Order2: [13 9 6 5 4]
+
+Player 1 win:
+hand1: [{2 13} {3 5} {3 7} {1 1} {2 7}]
+hand2: [{3 9} {0 7} {3 11} {1 10} {0 13}]
+Score1 '3' || Score2 '2'
+High1 '7' || High2 '13'
+Order1: [13 7 7 5 1] || Order2: [13 11 10 9 7]
+
+Player 1 win:
+hand1: [{1 8} {0 8} {3 1} {3 9} {0 11}]
+hand2: [{0 1} {1 4} {1 9} {3 2} {0 7}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '9'
+Order1: [11 9 8 8 1] || Order2: [9 7 4 2 1]
+
+Player 1 win:
+hand1: [{1 12} {2 7} {3 2} {0 12} {2 1}]
+hand2: [{2 9} {1 9} {2 5} {3 3} {0 10}]
+
+Score1 '3' || Score2 '3'
+High1 '12' || High2 '9'
+Order1: [12 12 7 2 1] || Order2: [10 9 9 5 3]
+
+Player 1 win:
+hand1: [{0 8} {3 8} {2 11} {1 13} {1 12}]
+hand2: [{0 5} {3 4} {3 3} {3 7} {0 13}]
+Score1 '3' || Score2 '2'
+High1 '8' || High2 '13'
+Order1: [13 12 11 8 8] || Order2: [13 7 5 4 3]
+
+Player 1 win:
+hand1: [{3 2} {1 13} {2 8} {2 13} {1 1}]
+hand2: [{3 1} {0 1} {0 2} {1 10} {0 12}]
+
+Score1 '3' || Score2 '3'
+High1 '13' || High2 '1'
+Order1: [13 13 8 2 1] || Order2: [12 10 2 1 1]
+
+Player 1 win:
+hand1: [{0 1} {0 6} {2 2} {2 1} {0 4}]
+hand2: [{2 11} {1 2} {2 13} {0 8} {3 12}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '13'
+Order1: [6 4 2 1 1] || Order2: [13 12 11 8 2]
+
+Player 1 win:
+hand1: [{3 5} {3 12} {2 5} {0 6} {2 2}]
+hand2: [{0 12} {0 1} {1 4} {1 10} {1 5}]
+Score1 '3' || Score2 '2'
+High1 '5' || High2 '12'
+Order1: [12 6 5 5 2] || Order2: [12 10 5 4 1]
+
+Player 1 win:
+hand1: [{3 1} {0 8} {0 13} {1 13} {0 6}]
+hand2: [{2 1} {0 10} {2 2} {1 6} {1 11}]
+Score1 '3' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 13 8 6 1] || Order2: [11 10 6 2 1]
+
+Player 1 win:
+hand1: [{3 1} {2 6} {3 9} {0 9} {3 5}]
+hand2: [{3 10} {3 7} {3 3} {0 1} {2 4}]
+Score1 '3' || Score2 '2'
+High1 '9' || High2 '10'
+Order1: [9 9 6 5 1] || Order2: [10 7 4 3 1]
+
+Player 1 win:
+hand1: [{2 7} {0 11} {3 12} {3 10} {2 11}]
+hand2: [{0 10} {3 3} {1 12} {0 4} {2 2}]
+Score1 '3' || Score2 '2'
+High1 '11' || High2 '12'
+Order1: [12 11 11 10 7] || Order2: [12 10 4 3 2]
+
+Player 1 win:
+hand1: [{3 12} {1 5} {1 8} {3 8} {2 9}]
+hand2: [{2 1} {1 10} {0 3} {1 1} {3 11}]
+
+Score1 '3' || Score2 '3'
+High1 '8' || High2 '1'
+Order1: [12 9 8 8 5] || Order2: [11 10 3 1 1]
+
+Player 1 win:
+hand1: [{0 12} {1 8} {0 1} {3 12} {3 8}]
+hand2: [{1 9} {2 6} {1 12} {0 10} {3 1}]
+Score1 '4' || Score2 '2'
+High1 '12' || High2 '12'
+Order1: [12 12 8 8 1] || Order2: [12 10 9 6 1]
+
+Player 1 win:
+hand1: [{3 1} {1 7} {3 9} {1 3} {0 1}]
+hand2: [{1 11} {3 4} {1 9} {1 1} {3 6}]
+Score1 '3' || Score2 '2'
+High1 '1' || High2 '11'
+Order1: [9 7 3 1 1] || Order2: [11 9 6 4 1]
+
+Player 1 win:
+hand1: [{2 1} {2 8} {2 7} {1 3} {1 7}]
+hand2: [{3 2} {0 5} {3 11} {1 6} {0 6}]
+
+Score1 '3' || Score2 '3'
+High1 '7' || High2 '6'
+Order1: [8 7 7 3 1] || Order2: [11 6 6 5 2]
+
+HAND2: Hand 1: [{Suit:1 Value:5} {Suit:2 Value:7} {Suit:0 Value:11} {Suit:0 Value:4} {Suit:2 Value:9}] ||| Hand 2: [{Suit:1 Value:4} {Suit:1 Value:2} {Suit:2 Value:3} {Suit:2 Value:1} {Suit:0 Value:1}]
+Player 1 win:
+hand1: [{2 7} {2 5} {0 1} {1 10} {2 2}]
+hand2: [{0 2} {3 8} {1 7} {2 1} {0 6}]
+
+Score1 '2' || Score2 '2'
+High1 '10' || High2 '8'
+Order1: [10 7 5 2 1] || Order2: [8 7 6 2 1]
+
+Player 1 win:
+hand1: [{0 2} {2 2} {3 6} {1 3} {2 8}]
+hand2: [{0 4} {0 7} {1 10} {3 2} {1 9}]
+Score1 '3' || Score2 '2'
+High1 '2' || High2 '10'
+Order1: [8 6 3 2 2] || Order2: [10 9 7 4 2]
+
+Player 1 win:
+hand1: [{2 12} {3 3} {1 13} {2 7} {2 8}]
+hand2: [{3 7} {0 9} {0 11} {3 8} {1 4}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 12 8 7 3] || Order2: [11 9 8 7 4]
+
+Player 1 win:
+hand1: [{3 4} {1 4} {1 7} {2 11} {1 9}]
+hand2: [{1 3} {3 2} {2 2} {1 1} {3 7}]
+
+Score1 '3' || Score2 '3'
+High1 '4' || High2 '2'
+Order1: [11 9 7 4 4] || Order2: [7 3 2 2 1]
+
+Player 1 win:
+hand1: [{3 8} {2 12} {3 1} {1 2} {1 12}]
+hand2: [{2 3} {1 7} {0 12} {1 5} {1 10}]
+Score1 '3' || Score2 '2'
+High1 '12' || High2 '12'
+Order1: [12 12 8 2 1] || Order2: [12 10 7 5 3]
+
+Player 1 win:
+hand1: [{0 7} {0 13} {0 5} {3 6} {2 6}]
+hand2: [{3 11} {1 2} {1 3} {1 5} {1 12}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '12'
+Order1: [13 7 6 6 5] || Order2: [12 11 5 3 2]
+
+Player 1 win:
+hand1: [{0 11} {2 13} {2 11} {3 6} {1 10}]
+hand2: [{1 12} {1 1} {1 3} {1 4} {2 4}]
+
+Score1 '3' || Score2 '3'
+High1 '11' || High2 '4'
+Order1: [13 11 11 10 6] || Order2: [12 4 4 3 1]
+
+Player 1 win:
+hand1: [{0 11} {3 2} {2 13} {2 10} {0 3}]
+hand2: [{3 7} {0 6} {1 10} {2 1} {1 8}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '10'
+Order1: [13 11 10 3 2] || Order2: [10 8 7 6 1]
+
+Player 1 win:
+hand1: [{3 4} {3 3} {2 1} {2 3} {3 8}]
+hand2: [{1 8} {3 1} {2 11} {0 7} {0 6}]
+Score1 '3' || Score2 '2'
+High1 '3' || High2 '11'
+Order1: [8 4 3 3 1] || Order2: [11 8 7 6 1]
+
+Player 1 win:
+hand1: [{2 4} {3 4} {1 10} {0 11} {3 1}]
+hand2: [{2 12} {0 7} {2 11} {0 1} {2 9}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '12'
+Order1: [11 10 4 4 1] || Order2: [12 11 9 7 1]
+
+Player 1 win:
+hand1: [{0 10} {0 4} {2 4} {0 13} {0 6}]
+hand2: [{1 2} {2 7} {2 13} {3 9} {0 12}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '13'
+Order1: [13 10 6 4 4] || Order2: [13 12 9 7 2]
+
+Player 1 win:
+hand1: [{1 3} {2 12} {3 8} {3 13} {2 6}]
+hand2: [{1 12} {3 6} {0 7} {2 2} {1 8}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '12'
+Order1: [13 12 8 6 3] || Order2: [12 8 7 6 2]
+
+Player 1 win:
+hand1: [{0 6} {1 4} {0 4} {1 2} {0 7}]
+hand2: [{1 11} {3 2} {0 12} {3 5} {1 10}]
+Score1 '3' || Score2 '2'
+High1 '4' || High2 '12'
+Order1: [7 6 4 4 2] || Order2: [12 11 10 5 2]
+
+Player 1 win:
+hand1: [{2 7} {2 5} {2 9} {1 2} {0 5}]
+hand2: [{3 7} {2 4} {0 2} {3 9} {1 5}]
+Score1 '3' || Score2 '2'
+High1 '5' || High2 '9'
+Order1: [9 7 5 5 2] || Order2: [9 7 5 4 2]
+
+Player 1 win:
+hand1: [{2 12} {3 2} {0 10} {1 8} {1 6}]
+hand2: [{2 8} {2 11} {2 4} {0 3} {0 5}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 10 8 6 2] || Order2: [11 8 5 4 3]
+
+Player 1 win:
+hand1: [{1 12} {3 7} {3 11} {3 5} {0 12}]
+hand2: [{1 4} {0 6} {3 8} {3 2} {1 8}]
+
+Score1 '3' || Score2 '3'
+High1 '12' || High2 '8'
+Order1: [12 12 11 7 5] || Order2: [8 8 6 4 2]
+
+Player 1 win:
+hand1: [{3 12} {1 8} {0 10} {0 6} {1 12}]
+hand2: [{2 7} {2 1} {2 6} {3 2} {0 5}]
+Score1 '3' || Score2 '2'
+High1 '12' || High2 '7'
+Order1: [12 12 10 8 6] || Order2: [7 6 5 2 1]
+
+Player 1 win:
+hand1: [{3 13} {1 6} {1 2} {2 6} {2 4}]
+hand2: [{3 3} {0 8} {3 2} {1 10} {0 12}]
+Score1 '3' || Score2 '2'
+High1 '6' || High2 '12'
+Order1: [13 6 6 4 2] || Order2: [12 10 8 3 2]
+
+Player 1 win:
+hand1: [{1 11} {2 12} {0 11} {2 6} {1 2}]
+hand2: [{1 3} {1 4} {1 12} {3 4} {0 13}]
+
+Score1 '3' || Score2 '3'
+High1 '11' || High2 '4'
+Order1: [12 11 11 6 2] || Order2: [13 12 4 4 3]
+
+Player 1 win:
+hand1: [{2 10} {2 6} {1 4} {3 12} {3 5}]
+hand2: [{0 11} {2 7} {3 9} {0 1} {2 5}]
+
+Score1 '2' || Score2 '2'
+High1 '12' || High2 '11'
+Order1: [12 10 6 5 4] || Order2: [11 9 7 5 1]
+
+Player 1 win:
+hand1: [{0 11} {1 5} {1 9} {0 5} {3 9}]
+hand2: [{1 3} {3 8} {0 1} {1 11} {0 7}]
+Score1 '4' || Score2 '2'
+High1 '9' || High2 '11'
+Order1: [11 9 9 5 5] || Order2: [11 8 7 3 1]
+
+Player 1 win:
+hand1: [{0 8} {3 8} {3 10} {0 10} {2 2}]
+hand2: [{0 13} {1 1} {2 5} {0 2} {2 7}]
+Score1 '4' || Score2 '2'
+High1 '10' || High2 '13'
+Order1: [10 10 8 8 2] || Order2: [13 7 5 2 1]
+
+Player 1 win:
+hand1: [{1 4} {1 11} {0 11} {2 13} {2 9}]
+hand2: [{2 3} {2 5} {1 3} {0 4} {2 10}]
+
+Score1 '3' || Score2 '3'
+High1 '11' || High2 '3'
+Order1: [13 11 11 9 4] || Order2: [10 5 4 3 3]
+
+Player 1 win:
+hand1: [{0 1} {1 9} {2 7} {3 13} {2 8}]
+hand2: [{0 3} {2 9} {0 6} {1 1} {1 4}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '9'
+Order1: [13 9 8 7 1] || Order2: [9 6 4 3 1]
+
+Player 1 win:
+hand1: [{2 9} {0 11} {3 9} {2 11} {1 2}]
+hand2: [{0 10} {0 13} {1 1} {3 7} {3 6}]
+Score1 '4' || Score2 '2'
+High1 '11' || High2 '13'
+Order1: [11 11 9 9 2] || Order2: [13 10 7 6 1]
+
+Player 1 win:
+hand1: [{3 4} {1 12} {0 2} {2 4} {1 13}]
+hand2: [{2 3} {0 6} {2 11} {1 3} {0 1}]
+
+Score1 '3' || Score2 '3'
+High1 '4' || High2 '3'
+Order1: [13 12 4 4 2] || Order2: [11 6 3 3 1]
+
+Player 1 win:
+hand1: [{2 4} {3 7} {0 9} {1 5} {3 8}]
+hand2: [{3 6} {0 12} {1 7} {2 8} {3 5}]
+Score1 '6' || Score2 '2'
+High1 '9' || High2 '12'
+Order1: [9 8 7 5 4] || Order2: [12 8 7 6 5]
+
+Player 1 win:
+hand1: [{3 10} {2 11} {2 6} {1 11} {2 1}]
+hand2: [{0 11} {1 10} {2 3} {2 12} {3 7}]
+Score1 '3' || Score2 '2'
+High1 '11' || High2 '12'
+Order1: [11 11 10 6 1] || Order2: [12 11 10 7 3]
+
+Player 1 win:
+hand1: [{2 3} {0 4} {0 13} {0 10} {1 8}]
+hand2: [{3 4} {3 9} {1 6} {3 1} {2 5}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '9'
+Order1: [13 10 8 4 3] || Order2: [9 6 5 4 1]
+
+Player 1 win:
+hand1: [{1 12} {1 5} {0 6} {2 5} {1 8}]
+hand2: [{3 11} {2 4} {0 3} {2 12} {3 9}]
+Score1 '3' || Score2 '2'
+High1 '5' || High2 '12'
+Order1: [12 8 6 5 5] || Order2: [12 11 9 4 3]
+
+Player 1 win:
+hand1: [{2 11} {3 11} {1 13} {3 13} {1 3}]
+hand2: [{2 5} {3 1} {2 13} {0 2} {1 12}]
+Score1 '4' || Score2 '2'
+High1 '13' || High2 '13'
+Order1: [13 13 11 11 3] || Order2: [13 12 5 2 1]
+
+Player 1 win:
+hand1: [{1 8} {3 10} {1 6} {3 5} {1 9}]
+hand2: [{0 5} {1 5} {1 10} {3 2} {2 2}]
+Score1 '6' || Score2 '4'
+High1 '10' || High2 '5'
+Order1: [10 9 8 6 5] || Order2: [10 5 5 2 2]
+
+Player 1 win:
+hand1: [{1 11} {1 12} {2 2} {1 10} {3 12}]
+hand2: [{1 1} {3 7} {0 13} {2 11} {2 9}]
+Score1 '3' || Score2 '2'
+High1 '12' || High2 '13'
+Order1: [12 12 11 10 2] || Order2: [13 11 9 7 1]
+
+Player 1 win:
+hand1: [{2 13} {3 12} {3 2} {3 10} {0 7}]
+hand2: [{1 6} {1 7} {1 4} {3 11} {1 5}]
+
+Score1 '2' || Score2 '2'
+High1 '13' || High2 '11'
+Order1: [13 12 10 7 2] || Order2: [11 7 6 5 4]
+
+And the result is..... 384

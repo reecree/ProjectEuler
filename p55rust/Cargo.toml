@@ -1,0 +1,7 @@
+[package]
+name = "p55rust"
+version = "0.1.0"
+authors = ["rupert"]
+edition = "2018"
+
+[dependencies]
