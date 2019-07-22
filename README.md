@@ -1,2 +1,3 @@
 # Project Euler
-A few random project euler solutions
+A few random project euler solutions.
+
